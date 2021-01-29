@@ -12,7 +12,7 @@ Cuanto más me entrenaba y entrenaba a otros, me enfoqué menos en el framework 
 
 Podría decir en Mediaton es un framework - antiframework.
 
-## #Objetivo
+## Objetivo
 Que las personas que participen puedan ser:
 
 
