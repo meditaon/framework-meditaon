@@ -138,7 +138,7 @@ Dedicá unos minutos al comienzo de cada sesión para revisar estos items. Agreg
 6. Dejar que todos hablen. Si alguien toma la reunión para si mismo, regular la participación para dar espacio a los demás. Otros pueden necesitar más tiempo para pensar antes de comentar.
 7. Si alguien llora o empieza a llorar. Acompañar. Es solo agua. No tengas miedo.
 
-### Literatura
+## Literatura
 Algunos conocimientos básicos sobre productividad y estrés son útiles para los que participen del workshop. 
 
 * Kabat-Zinn, Jon. Wherever You Go, There You Are: Mindfulness Meditation in Everyday Life. New York: Hyperion Books, 1994. 
@@ -146,7 +146,7 @@ Algunos conocimientos básicos sobre productividad y estrés son útiles para lo
 * Boorstein, Sylvia. Pay Attention for Goodness’ Sake. New York: Ballantine Books, 2002. 
 * Cualquier otro libro que esté en tema. 
 
-### Efectos Secundarios
+## Efectos Secundarios
 En general, se considera que la meditación es segura en personas sanas.
 
 Es posible que personas con limitaciones físicas no puedan participar en ciertas prácticas relacionadas con el movimiento.
@@ -159,13 +159,13 @@ No uses la meditación para reemplazar tu tratamiento médico habitual o como un
 
 Averiguá antecedentes sobre tu maestra de meditación si estás tomando clases o tenés pensado asistir a una clase.
 
-### Licencia - No Copyright
+## Licencia - No Copyright
 Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
-### Autor
+## Autor
 * **Dario Space** - [dariospace](https://github.com/dariospace)
 
-### Referencias
+## Referencias
 Este proyecto fue adaptado de [lightly](https://github.com/lightly-io/)
 
 Preguntas? Sugerencias? Feedback? Enviame un mail a dariomaim@gmail.com
