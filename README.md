@@ -89,6 +89,43 @@ Durante la sesión, cada participante se turnará para compartir su mayor obstá
 **Beneficio**: Saber qué formas de reflexión son más efectivas.
 **Beneficio**: Si no se hizo ninguna reflexión, tener en cuenta que esto es solo un efecto y tal vez no la causa principal del problema. **Beneficio**: Es un incentivo para reflexionar más antes del próximo encuentro.
 
+### 2: ¿Cuál es el mayor obstáculo para tu productividad sustentable?
+**Beneficio**: simplemente contarlo en voz alta puede ser útil-
+**Beneficio**: tené en cuenta que hay personas escuchando. No estás solo.
+
+Antes de hacer esta pregunta, tené claros los límites. Quizás el mayor obstáculo es algo que el participante no quiere compartir con el grupo porque es personal. Si es así, por supuesto que está bien. Si hay otro obstáculo *que lo está afectando de manera tangible*, entonces hablá de eso. 
+
+Si no es así, pasá a la siguiente persona.
+
+Tené en cuenta que no te corresponde a vos ni al resto de los participantes juzgar si este es el mayor obstáculo o no. Podés hacer preguntas al respecto, pero al final, el individuo es libre de hacer lo que sienta mejor.
+
+Incluso si alguien no tiene algo que compartir, sin obstáculos, todavía tiene un papel importante que desempeñar en la meeting. Pueden aportar perspectivas y hacer preguntas a los demás participantes.
+
+### 3: ¿Alguien más en el grupo experimenta lo mismo?
+**Beneficio**: No sentirse tan rara o solo con el problema.
+
+### 4: ¿Es este obstáculo la otra cara de algo más positivo?
+**Beneficio**: Se puede tolerar el problema? Tal vez incluso verlo como necesario para llegar al resultado.
+
+### 5: ¿Hay otra forma de ver el obstáculo?
+**Beneficio**: Insight.
+Acá es donde realmente te la jugás con el papel de facilitador. 
+No le digas a los participantes *cómo es*. Solo trae otras perspectivas. "¿Podría ser que ..." o "¿Qué pasa si lo miramos desde este ángulo ...?
+
+### 6: ¿Qué tan grande es el obstáculo?
+**Beneficio**: darse cuenta de que el obstáculo está bien. "Aunque no está bien, está bien".
+**Beneficio**: Date cuenta de que, como humanos, nunca seremos perfectos. Sea más tolerante con uno mismo. Lo que en sí mismo reduce el sufrimiento. ("du blir aldrig klar")
+
+### 7: ¿Dónde está ubicado el problema? ¿Te afecta solo a vos o a todo el equipo?
+**Beneficio**: darse cuenta de dónde se necesita gastar energía para trabajar con el problema. Root cause analysis digamos.
+
+### 8: ¿Alguien más en el grupo tiene preguntas?
+**Beneficio**: comprensión más profunda de los obstáculos y de cada persona.
+Recordale al grupo que no deben tratar de resolver el obstáculo *rápidamente*. Estamos acostumbrados a solucionar problemas lo más rápido posible. Pero cuando se trata personas no es tan fácil. No es fácil y no siempre resolver, soluciona.
+
+### 9: ¿Hay algún experimento que puedas realizar para la próxima meeting?
+**Beneficio**: Eliminación potencial de obstáculos.
+No fuerces el experimento. Esto debería ser algo que cada uno elija hacer. En meditación, tal vez alguien se estresaría *más* probando la meditación que solo haciendolo *para probar*.
 
 ## Generando confianza
 Dedicá unos minutos al comienzo de cada sesión para revisar estos items. Agregue más si los creés necesarios. Borrá los que no sean adecuados.
@@ -122,24 +159,15 @@ No uses la meditación para reemplazar tu tratamiento médico habitual o como un
 
 Averiguá antecedentes sobre tu maestra de meditación si estás tomando clases o tenés pensado asistir a una clase.
 
-### No Copyright
-El contenido de este sitio, todos los libros, audio y cosas publicados acá y generados por mi, no tienen derechos de autor, no soy su propietario ni existen licencias o restricciones de distribución.
+### Licencia - No Copyright
+Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
-Esto significa que pongo todo el contenido en el Dominio Público, y que liberé todos los derechos de autor.
+### Autor
+* **Dario Space** - [dariospace](https://github.com/dariospace)
 
-No tenés necesidad de pedirme permiso para usar el contenido. Usalo libremente como quieras. Envialo por correo electrónico, compartilo, imprimilo, vendelo, copialo, cambialo. Está todo bien. No es mío.
+### Referencias
+Este proyecto fue adaptado de [lightly](https://github.com/lightly-io/)
 
-El objetivo del No Copyright
-
-El No Copyright permite a los autores, creadores, copiadores, a las personas que hacen cosas (en este caso yo) compartir libremente, eliminando cualquier cosa que impida la evolución de las ideas.
-
-Como muchos otros, creo en un momento creativo en el que las ideas, en lugar de ser pensadas como propiedad, son liberadas (¿devueltas?) al universo 🌌 para inspirar, ayudar, motivar, enseñar – completá con el verbo que te siente bien – a otros.
-
-Agradezco a los que vienen después que nosotros y a los que vinieron antes, aquellos cuyo trabajo, ideas y contribuciones inspiran el nuestro. Eso es el No Copyright.
-
-Si pensabas que algo es tuyo. Pensá de nuevo. Pensemos de nuevo.
-
-## Contacto
 Preguntas? Sugerencias? Feedback? Enviame un mail a dariomaim@gmail.com
 
 Podés encontrar más sobre meditaon en meditaon.com
