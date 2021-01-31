@@ -55,6 +55,59 @@ Y que creemos.
 
 **En resumen** estamos programados y; podemos cambiar esa programación un poco. Es duro, muy duro. La voluntad de mejorar debe ir acompañada de la voluntad de aceptar algunos de nuestros defectos.
 
+### Framework, aspectos prácticos
+Programar una reunión de más de 10 minutos (10 veces el número de participantes). Si son ocho participantes, programar 90 minutos.
+
+Reunirse una vez a la semana o al mes hasta que el grupo esté satisfecho. Esto puede llevar cuatro sesiones, ocho o doce. Si el grupo no está satisfecho después de doce sesiones, tal vez el método no sea el adecuado.
+
+### Facilitadora
+La persona facilitadora tiene un rol especial. No está en el grupo para resolver los problemas. No sos una genia, ni un gurú, ni un charlatán.
+
+El facilitador está ahí para:
+
+1. Ayudar al equipo a descubrir qué les impide ser productivos de manera sostenible. Fomentar la reflexión. Hacer preguntas.
+2. Hacer todo el trabajo práctico: hacer tiempo en el calendario, enviar las minutas, recomiendar libros o lecturas.
+3. Asegurarse de que todos tengan la oportunidad de decir lo que piensan y como se sienten.
+4. Hacer que las sesiones se desarrollen de manera fluida.
+5. Un intrapreneur. Leer, pensar, escuchar, mirar, aprender, aprender, aprender. Cuantas más perspectivas pueda aportar la facilitadora, más ideas podrá aportar a las sesiones. Filosofía, liderazgo, psicología, teoría organizacional, productividad, tecnología, biología ...
+
+## Estado Actual
+Enviar un formulario antes de la primera sesión. El formulario debe ser ANONIMO y medir la productividad subjetiva desde en una escala del 1 al 10. Establece una meta con el grupo sobre los números que desean alcanzar. Una vez que hayan alcanzado sus objetivos, no es necesario realizar más sesiones. 
+
+## Pre Reflexión
+Antes de que el grupo se reúna, todos los participantes deben dedicar algún tiempo a reflexionar sobre su situación por su cuenta, como se encuentra cada una. Los métodos de reflexión incluyen meditación, llevar un diario, conversaciones abiertas y honestas. Deben entrar a la sesión con una idea de cuál es su **principal obstáculo**.
+
+Es trabajo del facilitador fomentar esta reflexión. Normalmente enviando una sugerencia o guia cuando envío el formulario de estado actual.
+
+## Haciendo preguntas
+Durante la sesión, cada participante se turnará para compartir su mayor obstáculo para la productividad sustentable. El rol del facilitadorE es hacer preguntas sobre el/los obstáculos. El objetivo es idear una nueva forma de verlo o crear un experimento en el que quizás podamos eliminarlo. A veces, solo hablar de algo y escuchar activamente, lo está resolviendo:
+
+> Te sentis escuchada, no sola. Hablar puede aclarar su pensamiento, lo que podría ser una solución en sí misma.
+
+### 1: ¿Qué método de reflexión, en tu caso, usaste para encontrar el obstáculo o problema que te traba?
+**Beneficio**: Ver que la reflexión es necesaria para entender.
+**Beneficio**: Saber qué formas de reflexión son más efectivas.
+**Beneficio**: Si no se hizo ninguna reflexión, tener en cuenta que esto es solo un efecto y tal vez no la causa principal del problema. **Beneficio**: Es un incentivo para reflexionar más antes del próximo encuentro.
+
+
+## Generando confianza
+Dedicá unos minutos al comienzo de cada sesión para revisar estos items. Agregue más si los creés necesarios. Borrá los que no sean adecuados.
+
+1. Todos son libres de establecer sus propios límites y *nunca* deben ser presionados para ir más allá de ellos.
+2. Es responsabilidad de cada uno establecer sus límites y del facilitador colaborar a que sean respetados.
+3. La puerta cerrada: física. Un espacio donde nadie más que los participantes puedan escuchar lo que se está conversando.
+4. La puerta cerrada: digital. Apagar los dispositivos móviles o mejor, no llevarlos a la sesión.
+5. La puerta cerrada: social. No compartir nada fuera de la sesión.
+6. Dejar que todos hablen. Si alguien toma la reunión para si mismo, regular la participación para dar espacio a los demás. Otros pueden necesitar más tiempo para pensar antes de comentar.
+7. Si alguien llora o empieza a llorar. Acompañar. Es solo agua. No tengas miedo.
+
+### Literatura
+Algunos conocimientos básicos sobre productividad y estrés son útiles para los que participen del workshop. 
+
+* Kabat-Zinn, Jon. Wherever You Go, There You Are: Mindfulness Meditation in Everyday Life. New York: Hyperion Books, 1994. 
+* Kaplan, Aryeh, Jewish Meditation. New York: Schocken Books, 1985. 
+* Boorstein, Sylvia. Pay Attention for Goodness’ Sake. New York: Ballantine Books, 2002. 
+* Cualquier otro libro que esté en tema. 
 
 ### Efectos Secundarios
 En general, se considera que la meditación es segura en personas sanas.
@@ -67,7 +120,7 @@ Existen casos dónde meditar causó o empeoró síntomas en personas con ciertos
 
 No uses la meditación para reemplazar tu tratamiento médico habitual o como una razón para posponer una visita al médico.
 
-Averiguá antecedentes sobre tu maestra de meditación si estás toamando clases o tenés pensado asistir a una clase.
+Averiguá antecedentes sobre tu maestra de meditación si estás tomando clases o tenés pensado asistir a una clase.
 
 ### No Copyright
 El contenido de este sitio, todos los libros, audio y cosas publicados acá y generados por mi, no tienen derechos de autor, no soy su propietario ni existen licencias o restricciones de distribución.
@@ -85,3 +138,8 @@ Como muchos otros, creo en un momento creativo en el que las ideas, en lugar de 
 Agradezco a los que vienen después que nosotros y a los que vinieron antes, aquellos cuyo trabajo, ideas y contribuciones inspiran el nuestro. Eso es el No Copyright.
 
 Si pensabas que algo es tuyo. Pensá de nuevo. Pensemos de nuevo.
+
+## Contacto
+Preguntas? Sugerencias? Feedback? Enviame un mail a dariomaim@gmail.com
+
+Podés encontrar más sobre meditaon en meditaon.com
