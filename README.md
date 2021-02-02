@@ -1,7 +1,7 @@
-# Meditaon Framework
+### Meditaon Framework
 ### Creando productividad sustentable. 
 
-## Histora
+## Historia
 Trabajé varios años en empresas de tecnología como intrapreneur y entrepreneur. Como a muchas personas, algo me faltaba y estaba en modo burn out. No tenía sentido. Investigué, probé, leí, tomé clases, cursos.
 
 > Probé de todo
@@ -12,7 +12,7 @@ Cuanto más me entrenaba y entrenaba a otros, me enfoqué menos en el framework 
 
 Podría decir en Mediaton es un framework - antiframework.
 
-## Objetivo
+### Objetivo
 Que las personas que participen puedan ser:
 
 
