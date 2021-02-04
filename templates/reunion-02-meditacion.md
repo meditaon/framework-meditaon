@@ -1,40 +1,50 @@
-# Session #2 - Meditation
+# #2 Reunion - Meditacion
 
-In this session, participants will learn what meditation is, how to meditate, what happens in the body and brain when you meditate and some philosophical elements of the practice.
+En esta reunión, los participantes aprenden qué es significa meditar, cómo meditar, qué sucede en el cuerpo y en la mente cuando meditamos.
 
-## Setup
-1. [Sharing](#1-sharing): reflections on previous week. (10 min)
-2. [Teaching](#2-teaching-meditation): meditation. (20 min)
-3. [Method](#3-method-meditation): meditation. (20 min)
-4. [Reflection](#4-reflection): reflection on meditation. (10 min)
+## Agenda
+1. [Compartir] (# 1 compartir): reflexiones sobre la semana anterior. (10 minutos)
+2. [Práctica] (# 2-práctica-meditación): meditación. (20 minutos)
+3. [Método] (# 3-método-meditación): meditación. (20 minutos)
+4. [Reflexión] (# 4-reflexión): reflexión sobre la meditación. (10 minutos)
 
-As a teacher, note all key findings and questions during the session. Make sure to follow up on them in the email afterwards.
+Cómo facilitadora, anotá los items clave, preguntas y temas relevantes de la reunión. Asegúrate de hacer un seguimiento de los mismos en la minuta que se envia por mail o la herramienta de comunicación que hayan elegido.
 
-## 1. Sharing
-Take turns clock-wise around the table and reflect on the previous week. How has your experience of deep breathing been? Was it hard? Easy? Nice? Uncomfortable? Was it hard to find the time to do it? Did you notice anything different in stressful situations?
+## 1. Compartir
+Tomar turnos en ronda y reflexionen sobre la semana anterior (entre reunión y reunión). 
+- ¿Cómo fue la práctica de respiración consciente? 
+- Fue ¿Díficil? ¿Fácil? ¿Agradable? ¿Incómoda? 
+- ¿Pudiste encontrar tiempo para hacerlo?
+- ¿Notaste algo diferente antes/después de alguna situación estresante?
 
-Make sure to let every person talk until they're finished. There's no need to rush them. Answer any questions, but try not to steer their reflection.
+Asegurate de dejar que todas las personas hablen hasta que terminen. No hay que apurarse. Respondé cualquier pregunta, pero tratá de no influir en la reflexión individual.
 
-Note that mental training works like physical training. Results are related to input and effort. If the group has trouble finding the time to do their homework, try helping them out. Is it easier at home or at work? On the commute? During breaks? 
+Tené en cuenta que entrenar la mente funciona como entrenar el cuerpo. El resultado está relacionado con la continuidad y la ampliación de la zona de confort. Si el grupo tiene problemas para encontrar tiempo para hacer la tarea, intentá ayudarlos. 
+- ¿Es más fácil hacerlo en casa o la oficina?
+- ¿En el commuting?
+- ¿Durante algún descanso/almuerzo?
 
-If the group works in the same building they can set up a daily session together. Just book a conference room, meet up and do the exercises.
+Si el grupo trabaja en la misma oficina, podés organizar una sesión diaria de respiración consciente todos juntos. Reservá una sala, reúnanse y hacé los ejercicios.
 
-It's not your job to make them feel bad for not doing the homework. Point out how important it is and coach them to make it happen.
+No es tu trabajo hacer sentir incómodo a nadie por no "hacer la tarea". Indicá lo importante que es y 
+recordales que este taller es práctico.
 
-## 2. Teaching: meditation
-Meditation is an umbrella term. Everything from journaling and thinking to spiritual exercises have been called meditation. A definition could be: techniques that are used to discover, develop and express mental states.
+## 2. Práctica: meditación
+Meditación es un término genérico. Escribir, pensar, cosas varias, respirar, concentrarse, se usan de manera indistinta para hablar de meditación. 
 
-In it's simplest form, meditation is just being aware of your inner and outer state. An active meditation means that you make a pro-active effort to stay aware. As soon as you notice yourself drifting into a daydream, you let that daydream go and once again become aware of the present moment.
+> Meditar es la capacidad de estar presente momento a momento.
 
-There are many variants of meditations. Some tell you to focus on an image, some on a word (mantra). Some meditations are done in motion, like walking meditation and tai chi, while most are done sitting still.
+Meditar es simple, pero no es fácil. Ni rápido, ni mágico. Requiere tiempo, energía, dedicación, voluntad, determinación y disciplina. Te va a demandar capacidades tuyas que probablemente te incomoden y que tratás de evitar siempre que resulte posible. 
 
-Now, we can use meditation as a spiritual method - to understand the transcendental. That's not what we're going to do in this course. Just like you see people singing in church, that doesn't mean all singing is religious. Right?
+De eso se trata en parte el entrenamiento. Vas a necesitar ser valiente. 
 
-There have been a lot of studies done on meditation in the last couple of years showing that it can lower stress levels and increase focus. Why is that? Well, the stress part is kind of simple. By sitting still and not doing anything, you're letting thoughts and worry drift away. 
+Es más cómodo relajarte y distraerte con el celular, dormir una siesta, mirar una serie o hacer cualquier otra actividad que no requiera valentía, que no te gaste. Pero sabés que en el corto plazo, estás insatisfecha, llena de nada. Y necesitás cada vez más de *esas cosas que no te gastan.* 
 
-There are, however, better methods to handle stress. If you just want to lower stress, science seems to point to physical exercise and sleep as more important than meditation. But for many, these things are not enough, or perhaps impossible.
+Vos y yo somos personas, heredamos la insatisfacción. Viene con el paquete. Buscás placer, terminás insatisfecha. Buscás comodidad, terminás insatisfecha. Todo esto ya lo habrás leído cientos de veces, o charlado. No es nuevo. No está de más recordarnoslo. A vos y a mi.
 
-Meditation is much more than just stress management. It is a tool to discover and develop mental states.
+Olvidate de la insatisfacción por un segundo, de hecho es sano a veces distraerte. Pero la insatisfacción vuelve, distraerte más de lo necesario es como un yuyo en el jardín que no lo cortás de raíz y vuelve a aparecer.
+ 
+Mientras tanto sabés, o querés creer que tiene que haber otra forma de vivir, otra aproximación a cómo entender el mundo. 
 
 ## 3. Method: meditation
 Teach the basic meditation method:
