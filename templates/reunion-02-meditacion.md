@@ -1,17 +1,17 @@
 # #2 Reunion - Meditacion
 
-En esta reunión, los participantes aprenden qué es significa meditar, cómo meditar, qué sucede en el cuerpo y en la mente cuando meditamos.
+En esta reunión, los participantes aprenden qué significa meditar, cómo meditar, qué sucede en el cuerpo y en la mente cuando meditamos.
 
 ## Agenda
-1. [Compartir] (# 1 compartir): reflexiones sobre la semana anterior. (10 minutos)
-2. [Práctica] (# 2-práctica-meditación): meditación. (20 minutos)
-3. [Método] (# 3-método-meditación): meditación. (20 minutos)
-4. [Reflexión] (# 4-reflexión): reflexión sobre la meditación. (10 minutos)
+1. [Compartir](#_1-compartir): reflexiones sobre la semana anterior. (10 minutos)
+2. [Práctica](#_2-práctica-meditación): meditación. (20 minutos)
+3. [Método](#_3-método-meditación): meditación. (20 minutos)
+4. [Reflexión](#_4-reflexión): reflexión sobre la meditación. (10 minutos)
 
 Cómo facilitadora, anotá los items clave, preguntas y temas relevantes de la reunión. Asegúrate de hacer un seguimiento de los mismos en la minuta que se envia por mail o la herramienta de comunicación que hayan elegido.
 
 ## 1. Compartir
-Tomar turnos en ronda y reflexionen sobre la semana anterior (entre reunión y reunión). 
+Tomen turnos en ronda y reflexionen sobre la semana anterior (entre reunión y reunión). 
 - ¿Cómo fue la práctica de respiración consciente? 
 - Fue ¿Díficil? ¿Fácil? ¿Agradable? ¿Incómoda? 
 - ¿Pudiste encontrar tiempo para hacerlo?
@@ -24,13 +24,13 @@ Tené en cuenta que entrenar la mente funciona como entrenar el cuerpo. El resul
 - ¿En el commuting?
 - ¿Durante algún descanso/almuerzo?
 
-Si el grupo trabaja en la misma oficina, podés organizar una sesión diaria de respiración consciente todos juntos. Reservá una sala, reúnanse y hacé los ejercicios.
+Si el grupo trabaja en la misma oficina, podés organizar una sesión diaria de respiración consciente todos juntos. Reservá una sala, reúnanse y hagan los ejercicios.
 
-No es tu trabajo hacer sentir incómodo a nadie por no "hacer la tarea". Indicá lo importante que es y 
+No es tu trabajo hacer sentir incómodo a nadie por no "hacer la tarea". Indicá la importancia de la práctica y 
 recordales que este taller es práctico.
 
-## 2. Práctica: meditación
-Meditación es un término genérico. Escribir, pensar, cosas varias, respirar, concentrarse, se usan de manera indistinta para hablar de meditación. 
+## 2. Teoría: meditación
+Meditación es un término genérico. Escribir, pensar, respirar, concentrarse, se usan de manera indistinta para hablar de meditación. 
 
 > Meditar es la capacidad de estar presente momento a momento.
 
@@ -40,41 +40,49 @@ De eso se trata en parte el entrenamiento. Vas a necesitar ser valiente.
 
 Es más cómodo relajarte y distraerte con el celular, dormir una siesta, mirar una serie o hacer cualquier otra actividad que no requiera valentía, que no te gaste. Pero sabés que en el corto plazo, estás insatisfecha, llena de nada. Y necesitás cada vez más de *esas cosas que no te gastan.* 
 
-Vos y yo somos personas, heredamos la insatisfacción. Viene con el paquete. Buscás placer, terminás insatisfecha. Buscás comodidad, terminás insatisfecha. Todo esto ya lo habrás leído cientos de veces, o charlado. No es nuevo. No está de más recordarnoslo. A vos y a mi.
+Somos personas, heredamos la insatisfacción. Viene con el paquete. Buscás placer, terminás insatisfecha. Buscás comodidad, terminás insatisfecha. Todo esto ya lo habrás leído cientos de veces, o charlado. No es nuevo. No está de más recordarnoslo. A vos y a mi.
 
 Olvidate de la insatisfacción por un segundo, de hecho es sano a veces distraerte. Pero la insatisfacción vuelve, distraerte más de lo necesario es como un yuyo en el jardín que no lo cortás de raíz y vuelve a aparecer.
- 
-Mientras tanto sabés, o querés creer que tiene que haber otra forma de vivir, otra aproximación a cómo entender el mundo. 
 
-## 3. Method: meditation
-Teach the basic meditation method:
-- Sit with a straight back.
-- Close your eyes.
-- Notice the breath moving in and out through your nose.
-- As soon as you start daydreaming, bring your focus back to the breath moving in and out.
+Mientras tanto sabés o creés que tiene que haber otra forma de vivir, otra aproximación a cómo entender el mundo. 
 
-Try it out for a minute or so. Ask the group what their experience was like.
+## 3. Método: meditación 
+Enseña la práctica básica de meditación
+- Sentate con la espalda recta y los músculos relajados en una posición cómoda, digna y que creas poder mantener durante el tiempo de la práctica.
+- Los ojos pueden estar abiertos, entreabiertos o completamente cerrados.
+- Para meditar no tenés que respirar de un modo especial o nuevo. Algunas personas disfrutan de sus sesiones empezando con 2 o 3 respiraciones profundas. Otras se ponen más ansiosas por hacer eso. Te sugiero que empieces respirando como hacés normalmente. Si sabés respirar con el abdomen mejor, y sino, practicá 🙂
 
-Most will notice a million thoughts whirling throught their minds. At this point, the group needs to be reassured that this is not a problem. It happens for everyone. Others will feel restlessness. Tell them this is common, and not a problem. They're just supposed to notice the restlessness. Where in the body does it present itself?
+> Tomá aire lenta y profundamente por la nariz mientras intentás llenarte toda de aire. Dejá que el aire se mueva dentro y hacia fuera a través de la nariz. Sentí al estómago expandirse y contraerse en cada respiración.
 
-Try meditation again, but now for a longer period of time. At every minute or so, tell the participants that everything is OK. Even restlessness and daydreaming. Ask them to bring their focus back to the breath as soon as they notice the drift in attention.
+### Pruebenlo durante un minuto más o menos. Preguntale al grupo cómo fue la experiencia.
 
-Their **homework** from this point on is to do meditation for ten minutes, twice daily. A success is sitting down for the entire session and bringing your attention back at least once.
+Meditar consiste en ser conscientes de la respiración, en este momento y a cada momento. Tan pronto como notes que ya no sos consciente de tu respiración, lleva la conciencia de vuelta a tu respiración contando las inspiraciones y expiraciones: inspiro, expiro, cuento 1, inspiro, expiro, cuento 2, inspiro, expiro, cuento 3 y así sucesivamente hasta 10, dónde vuelvo a empezar. Te vas a perder, de eso se trata. De practicar.
 
-## 4. Reflection
-Take turns to reflect on the meditation experience. Let each participant talk until they're finished. Answer any questions that might come up, and note those you don't have an answer for.
+La mayoría notará un millón de pensamientos dando vueltas en sus mentes. 
+Es natural y no es un problema, es lo que hace la mente.
 
-How is stress related to fear? Is it possible to be stressed if we don't feel fear? Ask the group how meditation might counteract the stress-response that was discussed in the previous session.
+Otros van a sentirse inquietos o van a sentir alguna molestia o sensación corporal. 
+Es natural y no es un problema, es lo que hace la mente. Lo importante es notar dónde aparece la inquietud.
 
-After the round, tell the group that you will be staying afterwards. Both to answer any questions that you didn't have time to discuss during the session and those they would like to ask 1-on-1.
+### Intenten meditar de nuevo, pero ahora por un período de tiempo más largo. Cada 1 minuto, decile a los participantes que todo está bien. Pediles que vuelvan a concentrarse en la respiración tan pronto como noten que su atención se desvía hacia otra cosa
 
-## Extra material
-- This meditation practice can either be called mindfulness meditation or vipassana (insight) meditation.
-- It might help to start the meditation out by doing some deep breathing.
-- Counting to ten instead of focusing on your breath is just another method, and the participants should be able to pick whatever fits them best. Some like mantras, some like visualization.
-- It's fine just sitting on a chair. If you're sleepy, try not to rest your back on the back support.
-- Laying down, however, puts most people to sleep.
+La **tarea** a partir de este momento es meditar durante cinco minutos, dos veces al día. El éxito es realizar la práctica diariamente.
 
--
 
-[Session #1 - An overview of stress](session-01-stress.md) | [Team Awareness Training](../../..) | [Session #3 - Mindfulness](session-03-mindfulness.md)
+## 4. Reflexión
+Permití que cada participante reflexione sobre las enseñanzas y lo que aprendió en la reunión. No debería ser una discusión sino los pensamientos *sin filtrar*. 
+
+¿Cómo se relaciona el estrés con el miedo? ¿Es posible estar estresado si no sentimos miedo? Preguntá al grupo cómo meditar podría contrarrestar la respuesta al estrés que se discutió en la sesión anterior.
+
+Indícales que meditar no es una actividad teórica, es práctica. Si no practican la respiración consciente no van a obtener ningún resultado.
+
+Después de terminar de hablar, decile al grupo que vas a quedarte después de la reunión a responder preguntas unos minutos por si alguien tiene una consulta uno a uno.
+
+## Material Extra
+- Este tipo de práctica de meditación puede denominarse meditación de atención plena o meditación [Vipassana](https://en.wikipedia.org/wiki/Vipassan%C4%81)
+- Puede ser útil antes de empezar a meditar hacer unas respiraciones profunda para *llegar*.
+- Si alguno se queda dormido o le da sueño, tratar de no apoyar la espalda en el respaldo de la silla.
+
+***
+
+[#1 Reunion - Hablemos de Stress](/templates/reunion-01-stress.md#agenda) | [Framework Meditaon](/#framework) | [Reunion #3 - Mindfulness](/templates/reunion-03-mindfulness.md)
