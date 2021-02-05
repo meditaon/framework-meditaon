@@ -4,7 +4,7 @@ En esta reunión, los participantes aprenden qué significa meditar, cómo medit
 
 ## Agenda
 1. [Compartir](#_1-compartir): reflexiones sobre la semana anterior. (10 minutos)
-2. [Práctica](#_2-práctica-meditación): meditación. (20 minutos)
+2. [Clase](#_2-práctica-meditación): meditación. (20 minutos)
 3. [Método](#_3-método-meditación): meditación. (20 minutos)
 4. [Reflexión](#_4-reflexión): reflexión sobre la meditación. (10 minutos)
 
@@ -29,7 +29,7 @@ Si el grupo trabaja en la misma oficina, podés organizar una sesión diaria de 
 No es tu trabajo hacer sentir incómodo a nadie por no "hacer la tarea". Indicá la importancia de la práctica y 
 recordales que este taller es práctico.
 
-## 2. Teoría: meditación
+## 2. Clase: meditación
 Meditación es un término genérico. Escribir, pensar, respirar, concentrarse, se usan de manera indistinta para hablar de meditación. 
 
 > Meditar es la capacidad de estar presente momento a momento.

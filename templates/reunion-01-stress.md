@@ -3,9 +3,9 @@
 En esta reunión, los participantes aprenderán el marco teórico básico de las causas del estrés, cómo se activa el estrés en el cuerpo, por qué se activa, cual es su función y cómo funciona el estrés, cómo se relaciona el estrés con la productividad sustentable y un método simple para reducir el estrés: respirar prestando atención.
 
 ## Agenda
-1. [Intro](#_1-introducción): presentacion individual y objetivo al inscribirse en el curso. (10 minutos)
+1. [Compartir](#_1-introducción): presentacion individual y objetivo al inscribirse en el curso. (10 minutos)
 2. [Clase](#_2-descripción-general-del-estrés): una descripción general del estrés. (20 minutos)
-3. [Métodología](#_3-metodología-respiración-consciente): respiración consciente. (20 minutos)
+3. [Método](#_3-metodología-respiración-consciente): respiración consciente. (20 minutos)
 4. [Reflexión](#_4-reflexión): reflexión sobre la respiración consciente y el homework para la próxima. (10 minutos)
 
 Cómo facilitadora, anotá los items clave, preguntas y temas relevantes de la reunión. Asegúrate de hacer un seguimiento de los mismos en la minuta que se envia por mail o la herramienta de comunicación que hayan elegido.

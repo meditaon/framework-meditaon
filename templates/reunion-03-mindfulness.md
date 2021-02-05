@@ -1,70 +1,71 @@
-# Session #3 - Meditation
+# #3 Sesión - Mindfulness
 
-In this session, participants will learn about mindfulness, why it's kind of a useless word, and how to get better at it.
+En esta reunión, los participantes aprenderán sobre mindfulness (atención plena), por qué es una palabra que no vale mucho y cómo mejorar la práctica.
 
-## Setup
-1. [Sharing](#1-sharing): reflections on meditation homework. (10 min)
-2. [Teaching](#2-teaching-mindfulness): mindfulness. (20 min)
-3. [Method](#3-ways-to-practice-mindfulness): different ways to increase mindfulness. (20 min)
-4. [Reflection](#4-reflection). (10 min)
+## Agenda
+1. [Compartir](#_1-compartir): reflexiones sobre la semana anterior. (10 minutos)
+2. [Clase](#_2-clase-enseñanza-mindfulness): mindfulness. (20 minutos)
+3. [Método](#_3-metodo-formas-de-practicar-mindfulness): diferentes formas de mejorar la atención. (20 minutos)
+4. [Reflexión](#_4-reflexión). (10 minutos)
 
-The teacher should note all key findings during the session. Also make sure to write down questions you didn't have the time to answer, and get back to them in the email afterwards.
+Cómo facilitadora, anotá los items clave, preguntas y temas relevantes de la reunión. Asegúrate de hacer un seguimiento de los mismos en la minuta que se envia por mail o la herramienta de comunicación que hayan elegido.
 
-## 1. Sharing
-Take turns clock-wise around the table and reflect on the previous week. How has your experience of meditation been? Was it hard? Easy? Nice? Uncomfortable? Was it hard to find the time to do it? Did you notice anything different in stressful situations?
+## 1. Compartir
+Tomen turnos en ronda y reflexionen sobre la semana anterior (entre reunión y reunión). 
 
-Make sure to let every person talk until they're finished. There's no need to rush them. Answer any questions, but try not to steer their reflection.
+Asegurate de dejar que todas las personas hablen hasta que terminen. No hay que apurarse. Respondé cualquier pregunta, pero tratá de no influir en la reflexión individual.
 
-Note that mental training works like physical training. Results are related to input and effort. If the group has trouble finding the time to do their homework, try helping them out. Is it easier at home or at work? On the commute? During breaks? 
+Tené en cuenta que entrenar la mente funciona como entrenar el cuerpo. El resultado está relacionado con la continuidad y la ampliación de la zona de confort. Si el grupo tiene problemas para encontrar tiempo para hacer la tarea, intentá ayudarlos. 
 
-If the group works in the same building, perhaps they can set up a daily session in a conference room where they do the exercises together.
+Si el grupo trabaja en la misma oficina, podés organizar una sesión diaria de respiración consciente todos juntos. Reservá una sala, reúnanse y hagan los ejercicios.
 
-It's not your job to make them feel bad for not doing the homework. Point out how important it is and coach them to make it happen.
+No es tu trabajo hacer sentir incómodo a nadie por no "hacer la tarea". Indicá la importancia de la práctica y 
+recordales que este taller es práctico.
 
-In this session, you will discuss how meditate in-action. A potential time-saver!
+## 2. Clase: Enseñanza mindfulness
+Mindfulness está de moda, ya no es una palabra con *valor*.
 
-## 2. Teaching: mindfulness
-Mindfulness is not a useful word anymore. After the last couple of years hype, it has morphed from being an almost sacred act of attention into being, like, whatever. Sometimes it's used interchangeably with presence.
+Como facilitadora, animá a los participantes a que inventen su propia definición o palabra para describir prestar atención. Lo que estás buscando es un estado en el que seas consciente de vos misma y de tu entorno. Tus pensamientos y sentimientos, los sonidos que te rodean, la respiración que entra y sale por la nariz. Similar al ejercicio de respiración consciente.
 
-So I encourage you to make up your own words. What you're looking for is a state where you are aware of yourself and your surroundings. Your thoughts and feelings, the sounds around you, the breath moving in and out through the nose. Just like you practiced in meditation.
+Se podría decir que estás despierta, opuesto al soñar despiertos, lo que muchos de nosotros hacemos todo el día. Mientras dura en esta reunión, pensamos en la próxima. Cuando estamos en casa, pensamos en el trabajo. Cuando estamos en el trabajo, pensamos en nuestra familia. Cuando vemos una película, usamos las redes sociales.
 
-I prefer the term "wakefulness" or "being awake." It stands as opposed to daydreaming, which many of us do all day. While we're in this meeting, we're thinking about the next. When we're at home, we think about work. When we're at work, we think about our family. When we watch a movie, we scroll through Facebook.
+¿Estamos de acuerdo en que hacer una sola cosa bien es mejor que hacer muchas cosas a media máquina?. ¿Con qué frecuencia lo hacemos realmente? ¿Y por qué es tan difícil?
 
-Most people agree that single-tasking is more productive than multi-tasking. But how often do we actually do it? And why is it so hard?
+Mindfulness es el **Ahí no estoy**, quitar del foco todo lo que no tenga que ver con lo que estás viviendo en el presente, momento a momento. Si encontrás la manera de reducir las distracciones, vas a estar más presente en el momento, sin esfuerzo, sin tratar de enfocarte. Sos vos el que elige prestar atención, las cosas no te pasan, hacés que las cosas te pasen y aceptas lo que te va pasando. Eligiendo, momento a momento.
 
-Mindfulness is, in a way, extreme single-tasking. Just walking, completely mindful. Or eating, without thinking about anything except the taste of the food. Actually not even thinking about the next slice of pizza before you've finished this one.
+Simplemente caminando, completamente conscientemente. O comer, sin pensar en nada más que en el sabor de la comida, el aroma, la textura. 
 
-There are long and complicated books trying to define mindfulness. Exploring how different types of mindfulness can be used in different spiritual activites. In this course, we're just learning what it feels like to do one thing at a time and experiencing it fully. Perhaps mindfulness is not the right word to use - feel free to make up something else.
+## 3. Metodo: formas de practicar mindfulness
+Practicar mindfulness en mi experiencia es la mejor manera de mejorar la atención, de enfocarse. Estar presentes con la respiración es un buen entrenamiento para estar consciente de todas las acciones propias y del entorno.
 
-## 3. Method: ways to practice mindfulness
-Meditation is, as far as I know, the best way to increase your mindfulness. Being aware of the breath is good training for being aware of your food and your actions.
+¿Que más podes hacer de manera "presente"?
+Comé tu comida y solo comé. Sin smartphone, sin hablar. Comé como si fuera la comida más única de la existencia.
 
-But you could also do mindful eating. Have your meal and just have it. No phone, no talking. Eat it like it was a million-dollar meal.
+Podés caminar estando consciente. 
 
-You could do mindful walking.
+Podés practicar yoga consciente.
 
-You could to mindful yoga. 
+Podés lavar los platos o hacer la cama de manera consciente. 
 
-Or washing the dishes mindfully.
+Si hay suficiente espacio en la sala, probá la *caminata consciente* o una *meditación caminando*. Ayudá a que los particpantes sean conscientes de cada paso. 
 
-If there is space enough in the room, try out mindful walking, or walking meditation. Be aware of every step. To be fully aware, you will naturally walk a bit slower. Perhaps even in slow-mo. Notice your thoughts, just as in meditation. And when you find yourself drifting in attention ...
+Para estar completamente conscientes, naturalmente vamos a caminar un poco más lento. Quizás incluso en cámara lenta. Observá los pensamientos, al igual que en la meditación de respiración consciente. Y cuando te encuentres perdiendo la atención, volvé.
 
-If there is not enough space, you could try eating meditation by handing out raisings. Feel them, taste them, chew them and swallow them mindfully.
+La **tarea** para la próxima semana es dedicar dos veces al dia cinco minutos practicar algún tipo de meditación. Se puede alternar entre respiración y otra práctica: caminar, comer, escuchar, etc.
 
-Or, you could just do meditation like last week, but calling it mindful breathing instead.
+## 4. Reflexión
+Permití que cada participante reflexione sobre las enseñanzas y lo que aprendió en la reunión. No debería ser una discusión sino los pensamientos *sin filtrar*. 
 
-The **homework** for the coming week is to keep spending two times ten minutes a day on meditation. But it would be OK to switch one or both session for a mindful activity like eating or walking.
+¿Cómo se relaciona el estrés con el miedo? ¿Es posible estar estresado si no sentimos miedo? Preguntá al grupo cómo meditar podría contrarrestar la respuesta al estrés que se discutió en la sesión anterior.
 
-## 4. Reflection
-Take turns counter-clockwise to reflect on the concept of mindfulness. How could it help with stress and focus? Let each participant talk until they're finished. Answer any questions that might come up, and note those you don't have an answer for.
+Indícales que meditar no es una actividad teórica, es práctica. Si no practican la respiración consciente no van a obtener ningún resultado.
 
-Tell the group that you will stay afterwards to answer any questions that you didn't have time to discuss during the session. Thank them for their time and attention.
+Después de terminar de hablar, decile al grupo que vas a quedarte después de la reunión a responder preguntas unos minutos por si alguien tiene una consulta uno a uno.
 
-## Extra material
-- When you're doing meditation, try saying yes to everything. Say yes to restlessness. To thoughts drifting. To any pain that comes. Memories and anxiety. Try saying yes to everything and see what happens.
-- Fall seven times, get back up eight. It's completely natural to be thinking about something else during meditation. It doesn't matter how many times it happens. Just keep at it. It's a meditation practice. 
-- Try a body scan to become more aware of your body. Be mindful of your feet. Your legs. Your stomach. And so forth. Body scanning is a great way to start your meditation.
+## Material Extra
+- Cuando estés meditando, intentá decir que sí a todo. Decí sí a la inquietud. Decí si la mente que divaga. Decí si a cualquier dolor que aparezca. Si a recuerdos y ansiedad. Intentá decir que sí a todo y fijate qué pasa.
+- Perderse y volver a la atención es normal y natural, ese es el entrenamiento. No importa cuántas veces pase. Solo seguí así. 
 
--
+***
 
-[Session #2 - Meditation](session-02-meditation.md) | [Team Awareness Training](../../..) | [Session #4 - Emotional intelligence](session-04-eq.md)
+[#2 Reunion - Meditacion](/templates/reunion-02-meditacion.md) | [Framework Meditaon](/#framework) | [Reunion #4 - Equilibrio](/templates/reunion-04-equilibrio.md)

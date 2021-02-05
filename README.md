@@ -10,11 +10,29 @@ Al principio, estaba muy concentrado en qué métodos deberían usarse. Ahora en
 
 Cuanto más me entrenaba y entrenaba a otros, me enfoqué menos en el framework y más en las personas y los equipos. 
 
-Podría decir en Mediaton es un framework - antiframework.
+Podría decir que Mediaton es un framework - antiframework.
+
+### Por que Meditar
+No es que la pregunta de por qué meditar sea incorrecta pero no tiene fundamento, lleva a una respuesta vacía. 
+> Practicá meditación y después vas a entender porqué.
+
+La pregunta que si tiene fundamento es para qué meditar. Si sos como yo, te sentís ansiosa frecuentemente. También puede ser que te sea difícil lidiar con las distracciones de la vida, esas cosas que te van pasando sin que elijas que te pasen. O que no puedas dormir como te gustaría, porque tu mente se la pasa pensando en lo que vas a hacer mañana o lo que dijiste ayer.
+
+Para personas como vos y como yo, la meditación puede ser una forma de bajar un cambio y estar más enfocada, consciente y conectada con el momento. Lo cual es útil tanto en el trabajo como con amigos, familia, pareja y muy útil cuándo estamos con nosotros mismos, solos.
+
+Hay otros métodos para alcanzar el mismo objetivo. Las razones por las cuales elegí meditar son:
+Es gratis y libre
+Puedo hacerlo casi en cualquier lugar
+Funciona
+
+Ahora, no hay necesidad de comprar ninguna estatua de Buda, ni aprender a sentarte con las piernas cruzadas, dejarte crecer la barba, usar ropa blanca o llenar tu casa de sahumerios. La meditación enfocada en la atención plena consiste en sentarse y respirar con intención.
+
+Meditar es cambiarte, para entender cómo son las cosas en realidad, sin prejuicios, sin ilusiones. Cómo un momento de insight pero que dura indefinidamente, que no se agota. Después de meditar no sos la misma persona. 
+
+Antes de seguir leyendo. Decidite si estás lista.
 
 ### Objetivo
-Que las personas que participen puedan ser:
-
+Que los participantes puedan ser:
 
 ### 1. Sustentables
 **Definición:** la forma de trabajar no debería terminar en un burn out mental o síntomas físicos producidos por el estrés.
