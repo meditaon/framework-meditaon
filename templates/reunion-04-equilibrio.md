@@ -1,74 +1,83 @@
-# Session #4 - EQ
+# #4 Reunión - Equilibrio
 
-In this session participants will learn how to recognize and manage their emotions more efficient.
+En esta reunión, los participantes aprenderán sobre como reconocer y gestionar mejor sus emociones.
 
-## Setup
-1. [Sharing](#1-sharing): reflections the previous weeks meditation practice. (10 min)
-2. [Teaching](#2-teaching-emotional-intelligence): emotional intelligence. (20 min)
-3. [Method](#3-method-invite-mara-for-tea): different ways to increase mindfulness. (20 min)
-4. [Reflection](#4-reflection). (10 min)
+## Agenda
+1. [Compartir](#_1-compartir): reflexiones sobre la semana anterior. (10 minutos)
+2. [Clase](#_2-clase-inteligencia-emocional): inteligencia emocional. (20 minutos)
+3. [Método](#_3-metodo-mejorar-la-atención): diferentes formas de mejorar la atención. (20 minutos)
+4. [Reflexión](#_4-reflexión). (10 minutos)
 
-The teacher should note all key findings and questions from the session and make sure to follow up on them in an email afterwards.
+Cómo facilitadora, anotá los items clave, preguntas y temas relevantes de la reunión. Asegúrate de hacer un seguimiento de los mismos en la minuta que se envia por mail o la herramienta de comunicación que hayan elegido.
 
-If the group has decided to stay offline during the sessions, remind them to shut off their devices.
+Si el grupo decidió estar offline, recordales que apaguen sus dispositivos.
 
-## 1. Sharing
-Take turns clock-wise around the table and reflect on the previous week. How has your experience of practice mindfulness been? Was it hard? Easy? Nice? Uncomfortable? Was it hard to find the time to do it? Did you notice anything different in stressful situations?
+## 1. Compartir
+Tomen turnos en ronda y reflexionen sobre la semana anterior (entre reunión y reunión). 
 
-Make sure to let every person talk until they're finished. There's no need to rush them. Answer any questions, but try not to steer their reflection. A part of this training is to learn how to communicate your own experience of stress. Not everyone is not apt at it from the start. 
+Asegurate de dejar que todas las personas hablen hasta que terminen. No hay que apurarse. Respondé cualquier pregunta, pero tratá de no influir en la reflexión individual. Una parte de este entrenamiento es aprender a comunicar la propia experiencia de estrés. No todo el mundo puede hacerlo desde el momento cero.
 
-Perhaps someone is still struggling to find the time to do any exercises. If you have any more suggestions on how and where they can find the time, give them this. But you could also tell them to let go. Perhaps this period in life is not the best to introduce new techniques an tools. For some, it actually increases stress to not find time for meditation.
+¿Cómo fue la experiencia de practicar mindfulness? ¿Fue duro? ¿Fácil? ¿Agradable? ¿Incómoda? ¿Fue difícil encontrar tiempo para hacerlo? ¿Notaste algo diferente en situaciones estresantes?
 
-It’s OK to agree with the person at this point to lower the expectancy the homework. Just note that the result will be affected by that.
+Quizás alguien todavía esté trabado por encontrar tiempo para hacer algún ejercicio. Podés sugerir ideas y también podés sugerir que se *suelten*, que *fluyan*, no esotéricamente. Quizás este momento de la vida no sea el mejor para ageregar algo más al calendario. 
 
-Remember: everyone struggles to find time to meditate. It’s good to share your own experience here.
+Para algunos de nosotros, en realidad no encontrar tiempo para meditar aumenta el estrés!
 
-## 2. Teaching: emotional intelligence
-Just like mindfulness, there are many ways to define emotional intelligence. For the purposes of this course, we’re going to have a simple one: the ability to recognize and communicate emotions in yourself and others.
+**Recordá: a todos nos resulta difícil encontrar tiempo para meditar. Es saludable compartir la propia experiencia en este espacio.**
 
-All group dynamics, and thus productivity, is based on emotions. Am I feeling safe? Happy? Frustrated? Sad? Hopeful? All these states have very different outcomes and might cause problems if you don’t know how to manage them.
+## 2. Clase: inteligencia emocional
+Al igual que con mindfulness, hay muchas formas de definir la inteligencia emocional. Para el objetivo de este curso, vamos a tener uno simple:
 
-The easiest way to understand your emotions is to watch them. Our meditation practices is handy at this point. By just sitting down for a couple of minutes everyday and listening to our state of being we will understand ourselves better.
+> Inteligencia emocional es la capacidad de reconocer y comunicar emociones con vos misma y con los demás.
 
-We all have go-to-feelings that come more often to us than others. Someone gets frustrated as soon as a problem in the project shows up. Someone else gets anxious, scared. Someone gets psyched and enthusiastic - a problem is fun to solve.
+La dinámica de grupo, y por tanto la productividad sustentable, se basa en las emociones. ¿Me siento segura? ¿Contenta? ¿Frustrada? ¿Triste? ¿Esperanzada? ¿Motivada? Todos estos estados tienen resultados muy diferentes y pueden causar efectos adversos si no los gestionamos.
 
-By watching yourself you know what your go-to-feeling is. It will present itself in your thoughts and emotions during the meditation. As you sit down and just let the mind do what it does best - create fantasy depictions of the future - you will recognize themes.
+La forma más fácil de comprender las emociones es observarlas. Nuestras prácticas de meditación son útiles en este momento. Simplemente sentándonos un par de minutos todos los días y escuchando nuestro estado de ser nos entenderemos mejor a nosotros mismos.
 
-## 3. Method: invite Mara for tea
-During meditation, a myriad of thoughts and feeling will come to you.
+Todos tenemos emociones más conocidas para nosotros mismos. Alguien se frustra en seguida cuando aparece un problema en el proyecto, otro se pone ansioso, otro se asusta, otro se enoja. Alguien se emociona y se entusiasma: un problema es divertido de resolver.
 
-The standard way to meet them is with aversion. “Go away, stupid thoughts and feelings. I’m meditating!”
+Al observarte a vos mismo, vas a darte cuenta cuál es esa emoción. Al sentarte y dejar que la mente haga lo que mejor sabe hacer (fantasear), vas a empezar a reconocer patrones de pensamiento.
 
-Unfortunately, this doesn’t work most of the time.
+## 3. Metodo: mejorar la atención
+Durante la práctica de meditación, van a aparecer muchos pensamientos, emociones y sentimientos.
 
-Instead, try inviting the feeling for tea. Even if it’s restlessness or anger. Accept the feeling and keep it close. Be with it, just like you are with your breath.
+La forma por default de gestionarlos es con aversión. *¡Andate pensamiento! ¡No vengas ahora! ¡Estoy meditando!*
 
-This will create a space for you, which exists between the stimuli (what causes the feeling) and the reaction (caused by the feeling). Instead of shouting at your coworker because they didn’t do as you agreed, you will first recognize your feeling of anger.
+Pero, esto no funciona la mayor parte del tiempo.
 
-“Oh, so this is anger. I’ve seen you before. Hi, anger.”
+En cambio, intentá invitar al sentimiento a acompañarte. Inclusive si es tranquilidad, ira o enojo. Aceptá el sentimiento y mantenelo cerca tuyo. Estate con él, conectate como lo estás con la respiración.
 
-This space between impulse and reaction is worth a whole lot in a stressful project. Instead of just reacting to what you assume to be danger, you have the ability to check yourself before your wreck yourself.
+Esto va a crear un espacio que antes no estaba, un espacio entre el estímulo (lo que causa la emoción) y la reacción (efecto creado por el sentimiento). En lugar de gritarle a tu compañero de trabajo porque no hizo lo que acordó, primero vas a reconocer el sentimiento de ira.
 
-Try meditating together for 10 minutes and not shutting feelings out. Invite them for tea.
+> Al principio este espacio es mínimo, casi imperceptible. A medida que continues con la práctica, vas a tener la capacidad de extenderlo en el tiempo.
 
-The groups **homework** is to keep meditating for two times a day. The "Invite Mara for Tea" method can be used in every meditation session where a feeling keeps coming back.
+Sería algo así: "Un compañero no hizo lo que acordó. Sentís un sentimiento de enojo. Reconocés el sentimiento de enojo. Hola enojo, yo te conozco, te habia visto antes!. Reaccionás"
 
-## 4. Reflection
-Take turns counter-clockwise to reflect on emotional intelligence. Why is emotional intelligence important? Are there other ways to improve it? 
+Este espacio entre impulso y reacción vale mucho en un proyecto estresante. En lugar de simplemente reaccionar ante lo que asumís que es un peligro, tenés la capacidad de controlarte antes de que se vaya todo *al caño*.
 
-Let each participant talk until they're finished. Answer any questions that might come up, and note those you don't have an answer for.
+Intenten meditar juntos durante 10 minutos y encontrarse con las emociones. 
 
-A good question to ask the group is: do you feel like you *are* your thoughts? Do you decribe yourself as "being angry" or "having a feeling of anger"? It can make a huge difference. We can view emotions as weather. They come and go. We don't always need to identify with them.
+La **tarea** para la próxima semana es dedicar dos veces al dia cinco minutos practicar algún tipo de meditación enfocados en reconocer las emociones y encontrarse con ellas. 
 
-As usual, tell the group that you will be staying afterwards to answer any questions that you didn't have time to discuss during the session.
+## 4. Reflexión
+Permití que cada participante reflexione sobre el concepto de inteligencia emocional, ¿Por qué es importante la inteligencia emocional? ¿Cómo podemos aprender y mejorarla?
 
-Thank them for their time and attention.
+Dejá que cada participante hable hasta que termine. No hay que apurarse. Respondé cualquier pregunta, pero tratá de no influir en la reflexión individual.
 
-## Extra material
-- Another way to improve your emotional intelligence is writing a diary. Journaling forces you to express your emotions. Reading the diary will help you understand your own emotional themes.
-- It’s usually helpful to recognize where in the body the feeling manifests itself. You could also ask the group what the feeling would be if it did not present itself in the body. Where and how would that be?
-- This is an exercise in meta-ok-ness, meaning that things are OK even when they are not OK. Sadness is not OK ... but it’s OK. Meta-OK-ness is a very powerful tool both in meditation and in life in general.
+Una buena pregunta para hacerle al grupo es: ¿Sentís que *sos* tus pensamientos? ¿Te describis a vos misma como *estoy enojado* o *siento un sentimiento de enojo*? La diferencia puede ser enrome! Podemos ver las emociones como el clima. Vienen y se van. No siempre necesitamos identificarnos con ellas.
 
--
+Como siempre, indicale al grupo que meditar no es una actividad teórica, es práctica. Si no practican la respiración consciente no van a obtener ningún resultado.
 
-[Session #3 - Mindfulness](session-03-mindfulness.md) | [Team Awareness Training](../../..) | [Session #5 - Flow](session-05-flow.md)
+Después de terminar de hablar, decile al grupo que vas a quedarte después de la reunión a responder preguntas unos minutos por si alguien tiene una consulta uno a uno.
+
+## Material Extra
+- Otra forma de mejorar la inteligencia emocional es escribir un diario. Llevar un diario te obliga a expresar tus emociones. Leer el diario te ayuda a entender tus emociones.
+- Suele ser útil reconocer en qué parte del cuerpo se manifiesta la emoción. 
+- Este es un ejercicio de todo está bien aunque no lo está, meta-ok-ness. Llegar a lo más profundo de nosotros mismos y confiar en las cosas está bien incluso cuando no es así. La *actitud* puede no cambiar nuestras circunstancias, pero tiene el poder de transformar la forma en que las percibimos y nos relacionamos con ellas. Las circunstancias pueden ser dolorosas, pero eventualmente sucederán ya que todo cambio es inevitable. Todos somos mucho más que nuestras circunstancias actuales. No importa lo que esté "mal", siempre hay más "bien" que "mal" en nosotros.
+
+
+***
+
+[Reunion #3 - Mindfulness](/templates/reunion-03-mindfulness.md) | [Framework Meditaon](/#framework) | [#5 Reunion - Meditacion](/templates/reunion-05-flow.md)
+
+
