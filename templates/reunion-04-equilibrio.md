@@ -78,6 +78,6 @@ Después de terminar de hablar, decile al grupo que vas a quedarte después de l
 
 ***
 
-[Reunion #3 - Mindfulness](/templates/reunion-03-mindfulness.md) | [Framework Meditaon](/#framework) | [#5 Reunion - Meditacion](/templates/reunion-05-flow.md)
+[Reunion #3 - Mindfulness](/templates/reunion-03-mindfulness.md) | [Framework Meditaon](/#framework) | [#5 Reunion - Flow](/templates/reunion-05-flow.md)
 
 

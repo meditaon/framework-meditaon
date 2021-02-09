@@ -1,81 +1,83 @@
-# Session #5 - Flow
+# #5 Reunion - Flow
 
-In this session, participants will learn what flow really is and how to achieve it at work.
+En esta reunión, los participantes van a aprender que es el estado de Flow, como llegar y mantenerse en ese estado.
 
-## Setup
-1. [Sharing](#1-sharing): reflections on emotional intelligence exercises from the previous week. (10 min)
-2. [Teaching](#2-teaching-flow): flow. (20 min)
-3. [Method](#3-methods-to-increase-flow): how to maximize flow. (20 min)
-4. [Reflection](#4-reflection). (10 min)
+## Agenda
+1. [Compartir](#_1-agenda): reflexiones sobre la semana anterior acerca de inteligencia emocional. (10 min)
+2. [Clase](#_2-clase-flow): flow. (20 min)
+3. [Método](#_3-metodo-flow): cómo entrar en flow y mantenerse. (20 min)
+4. [Reflexión](#_4-reflexión). (10 min)
 
 Keep a notebook where you note all the interesting points from the session. And questions you didn't have an answer for. Use these notes in the follow-up email.
 
 ## 1. Sharing
-Take turns clock-wise around the table and reflect on the previous week. Which emotions showed up for you most often in meditation? Were you able to use the technique in other situations as well?
+Tomen turnos en ronda y reflexionen sobre la semana anterior (entre reunión y reunión). ¿Qué emociones aparecieron con más frecuencia durante la práctica? ¿Pudiste usar la técnica en otras situaciones también además de cuando te sentaste formalmente?
 
-Make sure to let every person talk until they're finished. There's no need to rush them. Answer any questions, but try not to steer their reflection.
+Asegurate de dejar que todas las personas hablen hasta que terminen. No hay que apurarse. Respondé cualquier pregunta, pero tratá de no influir en la reflexión individual. Una parte de este entrenamiento es aprender a comunicar la propia experiencia de estrés. No todo el mundo puede hacerlo desde el momento cero.
 
-As a teacher, make sure everyone is sharing what they feel safe with. Don’t force them to share something about their inner state or the causes of those inner states. We're getting to a  personal level of our training here. We need to tread lightly.
+Como facilitadora, asegúrate de que todos compartan aquello con lo que se sienten seguros. No los obligues a compartir algo sobre su *internal state* o las causas de cómo se sienten. Estamos llegando a un nivel muy personal de nuestro entrenamiento. Necesitamos andar despacio y delicadamente.
 
-But. Being able to create a safe space where the group feel they can share is powerful. Most of the breakthroughs I’ve seen has come out of a place of deep sincerity.
+> Poder crear un espacio seguro donde el grupo sienta que puede compartir es **poderoso**. La mayoría de los avances provienen de un lugar de profunda sinceridad.
 
-For some participants, your group sessions will be the closest thing to religion they will experience. Treat it with the proper amount of respect. This is also a good reason for leaving phones and laptops outside: it helps to build a sense of trust.
+Para algunos participantes, las reuniones grupales serán lo más parecido a la religión que experimentarán. Trátalo con respeto, paciencia y calidez. Esta también es una buena razón para dejar los smartphones y las computadoras portátiles afuera: **ayuda a generar confianza.**
 
-## 2. Teaching: flow
-Most people are aware of the word flow and have a vague association with it.
+## 2. Clase: flow
+Casi todos conocemos la palabra fluir. Está de moda. 
 
-Flow has three key characteristics:
-1. We forget about time.
-2. We’re enjoying ourselves.
-3. We’re pushing ourselves.
+El Flow tiene tres características clave:
+1. Nos olvidamos del tiempo.
+2. Nos estamos divirtiendo o sintiendo placer.
+3. Nos estamos esforzando pero sin presión.
 
-The potential of flow states are immense. We're both enjoying ourselves and performe at our best. A group that maximizes flow would also be maximizing both well-being and productivity. 
+El potencial de los estados de Flow es infinito. Nos divertimos y al mismo tiempo somos super eficientes. Un grupo que está en Flow, encuentra productividad sustentable, salud y bienestar.
 
-So it’s worth spending time on, to say the least.
+> Vale la pena dedicarle tiempo.
 
-But how do we actually achieve flow? We need a couple of things in place.
-1. The activity needs to be meaningful.
-2. The activity needs to be challenging.
-3. We need to be undisturbed.
+¿Cómo logramos estar en Flow? Necesitamos saber y hacer un par de cosas.
+1. La actividad debe tener un significado para nosotros.
+2. La actividad debe ser desafiante a un nivel que podamos cumplir.
+3. Necesitamos que no nos interrumpan.
 
-The first two points relate to Purpose and Mastery, which most companies (hopefully!) are working with already. But that third one is trickier.
+Los dos primeros puntos se relacionan con el propósito y el dominio de conocimiento. La mayoría de las organizaciones ya optimizar esa parte. El tercero es el complicado.
 
-How often are we able to work undisturbed?
+**¿Con qué frecuencia podemos trabajar tranquilos?**
 
-Most of us are used to working in an environment that both digitally and physically promotes distraction. We send a million emails and Slack messages every day, and pull each other from any sense of flow as soon as we need something.
+La mayoría de nosotros estamos acostumbrados a trabajar en un entorno que tanto digital como físicamente promueve la distracción. Enviamos muchísimo correos electrónicos y mensajes todos los días en varias aplicaciones, y cada vez que hacemos eso nos alejamos del Flow.
 
-So how do we change this?
+¿Cómo cambiamos esto?
 
-## 3. Methods to increase flow
-I suggest starting small. Set up one (1) hour everyday where everyone are allowed to work undisturbed. This could mean working from home or a coffee shop or working at the office but not being allowed to be disturbed.
+## 3. Método: Flow
+Empiecen de apoco. Establecé una (1) hora diaria en la que todos puedan trabajar sin ser *"molestados"*. Esto puede ser trabajar desde casa, en un café, en la ofi, en una sala de reunión: el objetivo es generar un espacio dónde no puedan interrrumpirte.
 
-To get rid of distractions, shut of your email client. You can also use apps like Freedom to shut down the internet on your laptop. Or Self-control for specific websites.
+**Pueden ser 60 minutos, 50 minutos, o dos chunks de 25 minutos.**
 
-When I have a lot of emailing to do, I shut off internet. This helps me to pile them up and write answers. As soon as I’m online again, I send them all.
+Para omitir las distracciones, poné modo avión en el smartphone o apagá las notificaciones, cerrá el explorador en la computadora, muteá el sonido.
 
-This might sound simple - too simple - but don’t knock it until you’ve tried it. Remember that previous comparison to dieting? It’s not that hard to know what to do. You just need to … do it.
+> Cuando tengas muchos mails sin enviar/leer, poné modo avión y enfocate en en leer y escribir las respuestas. Cuando termine, volvé a Internet y enviá todos.
 
-For every course I’ve done so far, no-one has wanted to go back to a state where they were always disturbed. It even feels weird that you worked like that! Many increase their flow-time to more hours every day.
+Puede parecer simple, demasiado simple. Es simple pero no es fácil, ¡No subestimes la técnica! No es tan difícil saber qué hacer. Solo hay que hacerlo. Después de probar el Flow, en general nadie quiere volver a las interrupciones. 
 
-How does this relate to meditation? Meditation is a way to get rid of your *inner* distractions. Internet is not a problem if you know how to handle it. But some of us don’t.
+¿Cómo se relaciona esto con la meditación? La meditación es una forma de reducir las distracciones *internas*.
 
-The group's homework is to schedule one hour every day for flow. No phones, and perhaps even no internet, but most importantly: no physical distractions. Book a conference room.
+La tarea del grupo es programar una hora todos los días para estar en Flow sin distracciones externas a uno mismo: no internet, no teléfono, no charlar, etc.
 
-## 4. Reflection
-Take turns counter-clockwise to reflect on flow. Is the group excited about the idea? Is Mastery and Purpose in place or would they need to fix that as well?
+## 4. Reflexión
+Permití que cada participante reflexione sobre el concepto de Flow. ¿Están entusiasmados con la idea? ¿Se entendió el concepto, las herramientas y como practicarlo?
 
-Let each participant talk until they're finished. Answer any questions that might come up, and note those you don't have an answer for.
+Dejá que cada participante hable hasta que termine. No hay que apurarse. Respondé cualquier pregunta, pero tratá de no influir en la reflexión individual.
 
-Tell the group that you will be staying afterwards to answer their questions. Or stuff they'd like to ask 1-on-1. 
+Decile al grupo que te vas a quedar después para responder preguntas uno a uno 
 
-Thank them for their time and attention.
+Agradeceles por su tiempo y atención.
 
-## Extra material
-- It’s easier to get into a state of flow when doing something that’s dangerous. Like mountain biking. Ask the participants where in their life they are experiencing flow. It might be video games or gardening for them.
-- There’s no need to have a bunch of notifications on your phone. Delete all the apps and email accounts. Add them only if you find that you can’t work without them. This will help you stay in a state of flow.
-- Communication will look different after you’ve introduced the flow-hour. If you’re used to disturbing each other as soon as you need something, you need to think more ahead now. What will I need from this person in the coming hours?
-- You could also create a hierarchy of communication. Email is perfect for when you need something in a day or two. Slack for when you need something in the coming hour. Bothering someone IRL is allowed only if there is a crisis going on.
+## Material Extra
+- Lecturas recomendadas: [Flow](https://www.amazon.com/-/es/Mih%C3%A1ly-Csikszentmih%C3%A1lyi/dp/8472453723), [Limitless](https://www.amazon.com/-/es/Jim-Kwik-ebook/dp/B082ZQDH63/)
+- La comunicación es diferente luego de aprender el conecepto de Flow. Si están acostumbrados a *pinguearse* el uno al otro tan pronto como necesiten algo, ahora van a pensar más las consecuencias de las interrupciones. En vez de que necesito ahora => ¿Qué voy a necesitar de esta persona en las próximas horas?
+- El concepto de Flow puede generar una jerarquía en la forma de comunicación. El correo electrónico es perfecto para cuando necesitás algo no instantaneo (asincrónico). Slack o aplicaciones de mensajería, para cuando necesitás algo en la próxima hora. Molestar a alguien tocandole el hombre *solo está permitido si hay una crisis.*
+- Es más fácil entrar en un estado de Flow cuando se hace un actividad con cierto peligro o adrenalina. Andar en bici rápido, o en un bosque, trepar, correr en la montaña, jugar un video juego. Preguntá a los participantes en qué parte de su vida están experimentando Flow.
 
--
+> No es necesario tener un montón de notificaciones en el teléfono. Eliminá todas las aplicaciones y cuentas de correo electrónico. Agréguelas solo si descubrís que no podés trabajar sin ellos. 
 
-[Session #4 - Emotional intelligence](session-04-eq.md) | [Team Awareness Training](../../..) | [Session #6 - Company culture](session-06-culture.md)
+***
+
+[Reunion #4 - Eqiulibrio](/templates/reunion-04-equilibrio.md) | [Framework Meditaon](/#framework) | [#6 Reunion - Cultura](/templates/reunion-06-cultura.md)
