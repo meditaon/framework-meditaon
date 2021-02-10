@@ -68,4 +68,4 @@ Después de terminar de hablar, decile al grupo que vas a quedarte después de l
 
 ***
 
-[#2 Reunion - Meditacion](/templates/reunion-02-meditacion.md) | [Framework Meditaon](/#framework) | [Reunion #4 - Equilibrio](/templates/reunion-04-equilibrio.md)
+[#2 Reunion - Meditacion](/templates/reunion-02-meditacion.md#agenda) | [Framework Meditaon](/#framework) | [Reunion #4 - Equilibrio](/templates/reunion-04-equilibrio.md#agenda)

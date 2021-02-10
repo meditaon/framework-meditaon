@@ -1,8 +1,8 @@
-# Session #6 - Culture
+# #6 Reunion - Cultura
 
-In this session, we will shift our focus from our own training to our organisation can maximize flow. And calm. And focus.
+En esta reunión, cambiaremos el enfoque del entrenamiento en uno a mismo a un entrenamiento enfocado en la organización estar todos más tranquilos y calmados.
 
-## Setup
+## Agenda
 1. [Compartir](#_1-compartir): compartir sobre la semana anterior y el estado de Flow. (10 min)
 2. [Clase](#_2-clase-cultura): cultura de la organización. (20 min)
 3. [Método](#_3-metodo-para-mejorar-la-productividad-sustentable): ideas para mejorarla productividad sustentable. (20 min)
@@ -69,4 +69,4 @@ Agradeceles por su tiempo y atención.
 
 ***
 
-[Session #5 - Flow](session-05-flow.md) | [Team Awareness Training](../../..) | [Session #7 - Well-being](session-07-well-being.md)
+[Session #5 - Flow](session-05-flow.md#agenda) | [Team Awareness Training](../../..) | [Session #7 - Well-being](session-07-well-being.md#agenda)

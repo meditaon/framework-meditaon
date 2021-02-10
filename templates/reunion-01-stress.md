@@ -83,4 +83,4 @@ Si hay tiempo disponible, podés mostrar alguno de estos temas
 
 *** 
 
-[Framework Meditaon](/#framework) | [#2 Reunion - Meditacion](/templates/reunion-02-meditacion.md)
+[Framework Meditaon](/#framework) | [#2 Reunion - Meditacion](/templates/reunion-02-meditacion.md#agenda)

@@ -82,4 +82,4 @@ Agradeceles por su tiempo y atención.
 
 ***
 
-[Reunion #4 - Eqiulibrio](/templates/reunion-04-equilibrio.md) | [Framework Meditaon](/#framework) | [#6 Reunion - Cultura](/templates/reunion-06-cultura.md)
+[Reunion #4 - Eqiulibrio](/templates/reunion-04-equilibrio.md#agenda) | [Framework Meditaon](/#framework) | [#6 Reunion - Cultura](/templates/reunion-06-cultura.md#agenda)

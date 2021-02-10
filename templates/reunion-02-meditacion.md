@@ -85,4 +85,4 @@ Después de terminar de hablar, decile al grupo que vas a quedarte después de l
 
 ***
 
-[#1 Reunion - Hablemos de Stress](/templates/reunion-01-stress.md#agenda) | [Framework Meditaon](/#framework) | [Reunion #3 - Mindfulness](/templates/reunion-03-mindfulness.md)
+[#1 Reunion - Hablemos de Stress](/templates/reunion-01-stress.md#agenda) | [Framework Meditaon](/#framework) | [Reunion #3 - Mindfulness](/templates/reunion-03-mindfulness.md#agenda)
