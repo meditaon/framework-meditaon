@@ -3,63 +3,70 @@
 In this session, we will shift our focus from our own training to our organisation can maximize flow. And calm. And focus.
 
 ## Setup
-1. [Sharing](#1-sharing): thoughts on flow. (10 min)
-2. [Teaching](#2-teaching-company-culture): company culture. (20 min)
-3. [Method](#3-methods-to-increase-group-productivity): ideas on improving group productivity. (20 min)
-4. [Reflection](#4-reflection). (10 min)
+1. [Compartir](#_1-compartir): compartir sobre la semana anterior y el estado de Flow. (10 min)
+2. [Clase](#_2-clase-cultura): cultura de la organización. (20 min)
+3. [Método](#_3-metodo-para-mejorar-la-productividad-sustentable): ideas para mejorarla productividad sustentable. (20 min)
+4. [Reflexión](#_4-reflexión): reflexión y tarea para la próxima reunión. (10 minutos)
 
-Teacher: note goodies from the session in your notebook. Follow-up on them in an email after the session.
+Cómo facilitadora, anotá los items clave, preguntas y temas relevantes de la reunión. Asegúrate de hacer un seguimiento de los mismos en la minuta que se envia por mail o la herramienta de comunicación que hayan elegido.
 
-## 1. Sharing
-Take turns clock-wise around the table and reflect on the previous week. What was your experience of having an hour of flow? Was it possible? Did you get more done? What distracted you? Did you notice any difference in stress levels?
+Si el grupo decidió estar offline, recordales que apaguen sus dispositivos.
 
-As usual, make sure to let every person talk until they're finished. There's no need to rush them. Answer any questions, but try not to steer their reflection.
+## 1. Compartir
+Tomen turnos en ronda y reflexionen sobre la semana anterior (entre reunión y reunión). ¿Cómo fue la experiencia de tener una hora en modo Flow? ¿Fue posible? ¿Hiciste más cosas en el mismo tiempo? ¿Qué te distrajo? ¿Notaste alguna diferencia en los niveles de estrés?
 
-Ask the group to give each other advice. If someone wasn’t able to create time for flow, brainstorm ideas on how  you can solve the problem.
+Como siempre, asegurate que todas las personas puedan hablar hasta que terminen. Respondé cualquier pregunta, pero tratá de no influir en la reflexión individual. 
 
-## 2. Teaching: company culture
-There are many paradoxes surrounding meditation. One of them is that it’s a great self-help method but if you use it just to improve yourself, you’ll get stuck.
+Pedí al grupo que se den consejos unos a otros. Si alguien no pudo crear tiempo para estar en Flow, intercambien ideas sobre cómo podrían resolver el obstáculo.
 
-We need to look beyond ourselves.
+## 2. Clase: cultura
+Meditar puede considerarse una forma de autoayuda. El tema es que meditar como medio y no fin en si mismo te va a trabar.
 
-So that’s what we’re looking at in this session. How can awareness improve our team, our division or our entire company?
+De alguna manera, necesitamos mirar más allá de nosotros mismos. Contexto. El otro.
 
-For one thing, stress is contagious. Stress will not spread as fast if you've implemented stress management in your culture.
+De eso se trata esta reunión. ¿Cómo meditar, respirar conscientemente y todas las técnicas que fuimos aprendiendo pueden mejorar nuestro equipo y toda nuestra empresa?
 
-Many people who take this course talk about their managers being the source of stress. Are the managers aware of this? If not, how can we make them? Are you measuring well-being today?
+Por un lado, **el estrés es contagioso**. El estrés no se contagiará tan rápido si implementamos el manejo del estrés en la cultura de la organización como un valor.
 
-Remember that meditation and mindfulness are not the best methods. First, make sure people are getting enough sleep and have the time and energy to do physical exercise. Most people don’t need more methods. They need to prioritize the methods they already have.
+Muchas personas que participan del entrenamiento hablan de que sus gerentes *son la fuente de estrés*. ¿Los gerentes son conscientes de esto? Si no es así, ¿Cómo podemos hacer que o sean? ¿Están midiendo el bienestar y la salud hoy?
 
-That could mean that they need to take a walk every day at work. Without their phones. Just walking.
+Recordá que la meditación y la atención plena es el primer método para usar. 
+1. Primero: asegurate de que las personas duerman lo suficiente.
+2. Segundo: asegurate de que las personas tengan el tiempo y la energía para hacer ejercicio físico. 
+3. La mayoría de nosotros no necesitamos MAS métodos. Necesitamos priorizar los métodos que ya tenemos.
 
-## 3. Methods to increase group productivity
+Una solución entre otras tantas, sería caminar todos los días en el trabajo. Sin el teléfono. Solo caminar y respirar.
 
-First off, you need to start measuring stress and well-being in the company. If you’re not doing that, you’ll have no idea what’s working and what’s not. I use [Thriver](http://www.thriver.io) in my courses but I’m biased towards it since I’m a part of the development team. Do whatever works for you - but start measuring.
+## 3. Método: para mejorar la productividad sustentable
 
-Now, there are a million ways to go about this. A simple method to start could be to do 10 minutes of stress management every day at 2:30 PM. Pick your own method. Is it meditation? Walking? Listening to classical music? Drinking tea and looking out the window?
+Antes que nada, tienen que medir el estrés y el bienestar en la organización. Si no están haciendolo, no an a poder medir qué funciona y qué no. De alguna manera empiecen a medir.
 
-It could be starting out every meeting with a minute or so of silence. Just to calm the mind. Or take a breather in the middle of the meeting - but don’t check the phones. Just sit down and breathe. When you find that you don’t have the time for taking two minutes, you should do five minutes.
+Se puede comenzar cada reunión con un minuto de silencio y respirando. Solo para calmar la mente. O tómerse un respiro en medio de la reunión sin revisar el teléfonos. Simplemente sentarse y respirar. Cuando descubras que no tenés tiempo para tomarte dos minutos, entonces tomate 5 minutos!
 
-The most important part is spreading commitment and responsibility throughout the organisation. A burnout is not one single persons fault. We’re all responsible for helping each other to battle stress. If you see someone looking tired or having a hard time remembering things, ask them how they’re doing. 
+> La parte más importante es difundir el compromiso y la responsabilidad en toda la organización. **El agotamiento no es culpa de una sola persona.** Todos somos responsables de ayudarnos unos a otros a combatir el estrés. Si ves a alguien que parece cansado o que le cuesta recordar cosas, pregúntele cómo está sinceramente.
 
-The groups **homework** is to be a secret stress Santa. Pick someone at work which they will help optimize well-being and performance for. It could be by teaching them meditation, or bringing them out for a walk, or talking to them about their work. 
+La **tarea** del grupo es ser un amigo secreto de estrés. Elegí a alguien en el trabajo a quien vas a ayudar a optimizar el bienestar y la salud. Podría ser enseñándole a meditar o sacándolo a caminar o hablándole sobre su trabajo, más que hablándole, escuchándolo.
 
-And of course - the best way to help others manage stress is to be calm yourself. The group should keep meditating for two times ten minutes every day.
+La mejor manera de ayudar a otros a manejar el estrés es calmarse uno mismo. El grupo debe seguir meditando dos veces cinco minutos todos los días.
 
-## 4. Reflection
-Take turns counter-clockwise to reflect on what culture. Do they have other ideas on how to manage stress effectively in the group? Perhaps you could start to measure the six causes of stress (see session #1).
+## 4. Reflexión
+Permití que cada participante reflexione sobre la cultura de la organización. ¿Tienen otras ideas sobre cómo manejar el estrés de manera efectiva en el grupo? Quizás pueda comenzar a medir las seis causas del estrés ([#1 Reunion - Hablemos de Stress](/templates/reunion-01-stress.md#agenda))
 
-Many participants appreciate the art of communication more after this course. For example, writing a long, thorough, formatted email will make the recipient less stressed. Include everything in the email. All contact information to others involved, documents referenced, links where they can find more information. Finish the email with clear action points and deadlines.
+Muchos participantes entienden mejor la comunicación después de este entrenamiento. 
+Por ejemplo, escribir un correo electrónico largo, completo y formateado hará que el destinatario se sienta menos estresado al leerlo. Incluí en el mail toda la información de contacto con otros involucrados que deban tomar acción, documentos referenciados con links o adjuntos. Terminá el correo con llamados a la acción y plazos claros.
 
-It sounds simple, but don't knock it until you've tried it. It takes more time, yes, but you're saving someone else time. And your future self.
+Suena simple, pero no diganos no, hasta que no haberlo probado. Se necesita más tiempo para escribir este tipo de mail: **sí**. Pero le estás ahorrando tiempo a otra persona. Y a tu YO futuro.
 
-Finish by thanking them for their time and attention. Let the group know you'll be staying afterwards as usual.
+Decile al grupo que te vas a quedar después para responder preguntas uno a uno 
 
-## Extra material
-- It’s best to start small and measure. Make experiments for a couple of weeks and measure what happened. Compare to the invested time. There’s less friction implementing change this way. 
-- If the group is up for it, you could try metta meditation. Ask the participants to meditate as usual to start with. Then ask them to wish themselves joy and picture themselves feeling happy. Ask them to do the same with every person in the room. Everyone in the company. As a grand finale,  wish someone challenging joy.
-- Discuss why lowering stress could lead to increased productivity. For example, is it hard or easy to be creative in a stressful situation? Or to see things clearly? Sometimes there is a more elegant solution which has a high output and low input. But it’s often hidden from us in our myopic stress mindset.
+Agradeceles por su tiempo y atención.
 
--
+## Material Extra 
+- Es mejor empezar poco a poco y medir algunas cosas. Hacer experimentos durante algunas de semanas y medir lo que pasó. Comparar con el tiempo invertido en el método. Hay menos fricción al implementar el cambio de esta manera que haciendolo todo de una vez.
+- Si el grupo está dispuesto a hacerlo, podés intentar la *meditación metta* dónde la práctica consiste en cultivar un sentido de amor hacia uno mismo, después para con la gente que ama, despúes amigos, despúes maestros, después extraños y luego enemigos hasta cultivar el amor por la totalidad de los seres vivos. Muy cursi. Pero funciona.
+- ¿Cómo practicar metta? Pedí a los participantes que mediten como de costumbre para empezar. Luego pediles que se deseen alegría y se imaginen sintiéndose felices, que sonrian. Pediles que hagan lo mismo con todas las personas de la sala. Todos en la organización. Al final, deseale alegría a alguien con el que no te lleves muy bien.
+- charlen sobre por qué reducir el estrés podría conducir a una mayor/menor productividad. ¿Es fácil o difícil ser creativo en una situación estresante? A veces, no vemos la solución porque estamos **miopes de estrés.**
+
+***
 
 [Session #5 - Flow](session-05-flow.md) | [Team Awareness Training](../../..) | [Session #7 - Well-being](session-07-well-being.md)

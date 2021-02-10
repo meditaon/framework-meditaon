@@ -3,14 +3,16 @@
 En esta reunión, los participantes van a aprender que es el estado de Flow, como llegar y mantenerse en ese estado.
 
 ## Agenda
-1. [Compartir](#_1-agenda): reflexiones sobre la semana anterior acerca de inteligencia emocional. (10 min)
+1. [Compartir](#_1-agenda): compartir sobre la semana anterior acerca de inteligencia emocional. (10 min)
 2. [Clase](#_2-clase-flow): flow. (20 min)
 3. [Método](#_3-metodo-flow): cómo entrar en flow y mantenerse. (20 min)
-4. [Reflexión](#_4-reflexión). (10 min)
+4. [Reflexión](#_4-reflexión): reflexión y tarea para la próxima reunión. (10 minutos)
 
-Keep a notebook where you note all the interesting points from the session. And questions you didn't have an answer for. Use these notes in the follow-up email.
+Cómo facilitadora, anotá los items clave, preguntas y temas relevantes de la reunión. Asegúrate de hacer un seguimiento de los mismos en la minuta que se envia por mail o la herramienta de comunicación que hayan elegido.
 
-## 1. Sharing
+Si el grupo decidió estar offline, recordales que apaguen sus dispositivos.
+
+## 1. Compartir
 Tomen turnos en ronda y reflexionen sobre la semana anterior (entre reunión y reunión). ¿Qué emociones aparecieron con más frecuencia durante la práctica? ¿Pudiste usar la técnica en otras situaciones también además de cuando te sentaste formalmente?
 
 Asegurate de dejar que todas las personas hablen hasta que terminen. No hay que apurarse. Respondé cualquier pregunta, pero tratá de no influir en la reflexión individual. Una parte de este entrenamiento es aprender a comunicar la propia experiencia de estrés. No todo el mundo puede hacerlo desde el momento cero.

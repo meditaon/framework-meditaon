@@ -3,10 +3,10 @@
 En esta reunión, los participantes aprenden qué significa meditar, cómo meditar, qué sucede en el cuerpo y en la mente cuando meditamos.
 
 ## Agenda
-1. [Compartir](#_1-compartir): reflexiones sobre la semana anterior. (10 minutos)
+1. [Compartir](#_1-compartir): compartir sobre la semana anterior y el stress. (10 minutos)
 2. [Clase](#_2-práctica-meditación): meditación. (20 minutos)
 3. [Método](#_3-método-meditación): meditación. (20 minutos)
-4. [Reflexión](#_4-reflexión): reflexión sobre la meditación. (10 minutos)
+4. [Reflexión](#_4-reflexión): reflexión y tarea para la próxima reunión. (10 minutos)
 
 Cómo facilitadora, anotá los items clave, preguntas y temas relevantes de la reunión. Asegúrate de hacer un seguimiento de los mismos en la minuta que se envia por mail o la herramienta de comunicación que hayan elegido.
 

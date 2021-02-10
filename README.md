@@ -202,6 +202,6 @@ Si pensabas que algo es tuyo. Pensá de nuevo. Pensemos de nuevo.
 ## Referencias
 Este proyecto fue adaptado de [lightly](https://github.com/lightly-io/)
 
-Preguntas? Sugerencias? Feedback? Enviame un mail a dariomaim@gmail.com
+¿Preguntas? ¿Sugerencias? ¿Feedback? Enviame un mail a dariospaceman@gmail.com
 
-Podés encontrar más sobre meditaon en meditaon.com
+Podés encontrar más sobre meditaon en [meditaon](http://meditaon.com)

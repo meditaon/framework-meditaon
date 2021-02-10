@@ -6,7 +6,7 @@ En esta reunión, los participantes aprenderán el marco teórico básico de las
 1. [Compartir](#_1-introducción): presentacion individual y objetivo al inscribirse en el curso. (10 minutos)
 2. [Clase](#_2-descripción-general-del-estrés): una descripción general del estrés. (20 minutos)
 3. [Método](#_3-metodología-respiración-consciente): respiración consciente. (20 minutos)
-4. [Reflexión](#_4-reflexión): reflexión sobre la respiración consciente y el homework para la próxima. (10 minutos)
+4. [Reflexión](#_4-reflexión): reflexión y tarea para la próxima reunión. (10 minutos)
 
 Cómo facilitadora, anotá los items clave, preguntas y temas relevantes de la reunión. Asegúrate de hacer un seguimiento de los mismos en la minuta que se envia por mail o la herramienta de comunicación que hayan elegido.
 

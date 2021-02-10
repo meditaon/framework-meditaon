@@ -3,10 +3,10 @@
 En esta reunión, los participantes aprenderán sobre como reconocer y gestionar mejor sus emociones.
 
 ## Agenda
-1. [Compartir](#_1-compartir): reflexiones sobre la semana anterior. (10 minutos)
+1. [Compartir](#_1-compartir): compartir sobre la semana anterior y mindfulness. (10 minutos)
 2. [Clase](#_2-clase-inteligencia-emocional): inteligencia emocional. (20 minutos)
 3. [Método](#_3-metodo-mejorar-la-atención): diferentes formas de mejorar la atención. (20 minutos)
-4. [Reflexión](#_4-reflexión). (10 minutos)
+4. [Reflexión](#_4-reflexión): reflexión y tarea para la próxima reunión. (10 minutos)
 
 Cómo facilitadora, anotá los items clave, preguntas y temas relevantes de la reunión. Asegúrate de hacer un seguimiento de los mismos en la minuta que se envia por mail o la herramienta de comunicación que hayan elegido.
 
