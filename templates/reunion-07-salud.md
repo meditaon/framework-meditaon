@@ -1,80 +1,82 @@
-# Session #7 - Well-being
+# #8 Reunion - Bienestar
 
-In this session, participants will learn about well-being and how they can improve it.
+En esta reunión, vamos a aprender sobre bienestar y cómo podemos mejorarlo.
 
-## Setup
-1. [Sharing](#1-sharing): reflections on company culture. (10 min)
-2. [Teaching](#2-teaching-well-being): well-being. (20 min)
-3. [Method](#3-methods-to-increase-well-being): why and how to increase well-being. (20 min)
-4. [Reflection](#4-reflection). (10 min)
+## Agenda
+1. [Compartir](#_1-compartir): compartir sobre la semana anterior y la cultura. (10 min)
+2. [Clase](#_2-clase-bienestar): bienestar. (20 min)
+3. [Método](#_3-método-bienestar): por que y como mejorar el bienestar. (20 min)
+4. [Reflexión](#_4-reflexión): reflexión y tarea para la próxima reunión. (10 minutos)
 
-Note interesting stuff in a notepad. Followup on it in an email  or Slack message afterwards to the group.
+Cómo facilitadora, anotá los items clave, preguntas y temas relevantes de la reunión. Asegúrate de hacer un seguimiento de los mismos en la minuta que se envia por mail o la herramienta de comunicación que hayan elegido.
 
-## 1. Sharing
-Take turns clock-wise around the table and reflect on the previous week. Did you make any adjustments to your team culture that improved (or worsened!) calm and focused work? Any tips and tricks to share with the rest of the group? Challenges?
+Si el grupo decidió estar offline, recordales que apaguen sus dispositivos.
 
-If anyone helped someone else remove stress, asked them how they felt. That experienced relates to this weeks session. Which is …
+## 1. Compartir
+Tomen turnos en ronda y reflexionen sobre la semana anterior (entre reunión y reunión). Hicieron algún ajuste en la cultura del equipo que mejoró (o empeoró) aumentó la tranquilidad de todos y la concentración? ¿Algún consejo o truco para compartir con el resto del grupo? ¿Desafíos?
 
-## 2. Teaching: well-being
-We talk a lot about happiness and well-being. But what does science say in the matter? And how does it relate to productivity at work?
+## 2. Clase: Bienestar
+Ser feliz está de moda, hablamos mucho de felicidad, salud y bienestar. ¿Cómo se relacionan estos conceptos con la productividad sustentable?
 
-Here’s my hypothesis: many people switch jobs because they’re not happy. But the job is not the problem.
+Esta es una hipótesis: 
+**Muchas personas cambiamos de trabajo porque no estamos contentas. Pero el trabajo no es el problema.**
 
-Here’s the definition of well-being from Wikipedia:
+Bienestar Individual según Wikipedia:
 
-"Wellness refers to diverse and interconnected dimensions of physical, mental, and social well-being that extend beyond the traditional definition of health. It includes choices and activities aimed at achieving physical vitality, mental alacrity, social satisfaction, a sense of accomplishment, and personal fulfillment."[1]
+> El bienestar individual es un estado de satisfacción personal, de comodidad, y de confort, que de forma separada o conjunta considera como positivos o adecuados aspectos tales como la salud o bienestar psico-biológico, el éxito social y económico, el éxito profesional, el placer personal, la alegría de vivir, la armonía con uno mismo y con el entorno, la sensación de sentirse realizado por haber podido alcanzar ciertas metas, y una cultura adecuados, la creencia de que se es buena persona en concordancia con las opiniones de terceras personas, etc.
 
-As this is a complex set of variables, we're not going to solve it by just meditation.
+Como se trata de un conjunto complejo de variables, no lo vamos a resolver solamente meditando.
 
-Fact is that most of your well-being is out of your reach. From a scientific point of view, your happiness level is set between 30% and 50% based on your genetics. Tough luck.
+La mayor parte del bienestar individual está fuera de nuestro alcance. Desde un punto de vista científico, el nivel de felicidad se establece entre el 30% y el 50% según la genética. Mala suerte.
 
-What we can do is to train ourselves to look at a situation in a different way. 
+Lo que SI podemos hacer es entrenarnos para ver una situación de una manera diferente.
 
-## 3. Methods to increase well-being
-We need to get rid of our negativity bias. 
+## 3. Método: Bienestar
+Vamos a tratar de entrenar nuestro sesgo de negatividad.
 
-That bias makes us see problems everywhere, rather than being happy about the things that are OK.
+Ese sesgo nos hace ver problemas en todas partes, en lugar de ser felices por las cosas que están bien.
 
-You do have a job, right?
-And an OK body?
-Friends, family, coworkers you like?
-Food on the table.
-And so forth.
+- Tenemos un trabajo. Check.
+- Tenemos un cuerpo y estamos acá respirando. Check
+- Tenemos amigos, familiares, compañeros de trabajo para conversar. Check.
+- Tenemos comida en la mesa. Check
+- Etcéteras.
 
-So what's the problem? An app? A bit of code? 
+¿Entonces, cuál es el problema? ¿Una aplicación? ¿Un poco de código? ¿Un cliente enojado? 
 
-Being negative and focused on problems doesn't make it better. You can be positive and still fix stuff.
+Ser negativo y concentrarse en los problemas no hacer que la situación mejore. Podés ser positivo y aun así arreglar cosas.
 
-From an evolutionary standpoint, we have benefited from focusing on problems. Now? Not so much.
+Desde un punto de vista evolutivo, nos beneficiamos de centrarnos en los problemas. ¿En el mundo moderno? No tanto.
 
-There are two simple methods of working with negativity bias:
+Hay dos métodos simples para entrenar el sesgo de negatividad:
 
-First first is practicing gratitude. Now, most people think gratitude should come after things work out our way. My experience is the opposite. When we seek out things to be grateful for, our awareness shifts and we see our situation in a more positive light.
+1. Primero: practicar gratitud, agraceder. ¿Cursi? Si. ¿Funciona? Si. Muchos pensamos que la gratitud debe llegar después de que las cosas salgan bien. Mi experiencia es lo contrario. Cuando buscamos cosas por las que estar agradecidos, nuestra conciencia cambia y vemos nuestra situación desde una perspectiva más positiva.
 
-It’s easy to start practicing gratitute. Write a list of things your grateful for. It’s important not just to list the items themselves but also *why* your thankful. Why are you thankful for your body?
+Es simple, no fácil, empezar a practicar gratitud. 
+Escribí una lista de cosas por las que estás agradecido. Es importante no solo enumerar los elementos en sí, sino también *por qué* estás agradecida. ¿Por qué estás agradecido por respirar?
 
-If this feels phony, give it a week. Try it out as an experiment. It might take a while to get used to.
+Si te parece que no funciona, date una semana. Probalo como un experimento. Puede que tarde un poco en acostumbrarte.
 
-Another method to battle negativity bias is to savor the moment. When something good happens - no matter how small - make an effort to appreciate it. It could be coffee. The sun. A nice painting. A text from someone you love. 
+2. Segundo: otro método para entrenar el sesgo de negatividad es *estar presente en cada momento*. Cuando sucede algo bueno, no importa lo pequeño que sea, hacé un esfuerzo para apreciarlo. Puede ser un café. El sol. Un almuerzo. Un mensaje de texto de alguien a quien quieras.
 
-We’re so used to identify and work with problems we might miss the big picture. Many of us actually have good lives but we only focus on the bad stuff. 
+Estamos tan acostumbrados a identificar y trabajar con problemas que podemos perder el panorama general. Muchos de nosotros tenemos una buena vida, pero solo nos centramos en *las cosas malas.*
 
-The **homework** for this week is to keep meditating for two times a day. The participants can exchange one of the sessions to gratitude list writing if they wish to do so.
+La **tarea** de esta semana es seguir meditando dos veces al día. Los participantes pueden intercambiar una de las sesiones de meditaciónpor la escritura de la lista de agradecimiento si quieren.
 
-## 4. Reflection
-Take turns counter-clockwise to reflect on  well-being. Do you have a negativity bias? Or do you spend most of your day content? How about your team? What methods are you currently using to increase well-being? 
+## 4. Reflexión
+Permití que cada participante reflexione sobre salud y bienestar. ¿Tenés algún sesgo de negatividad? ¿Pasás la mayor parte de tu día despreciando los momentos? ¿Y tu equipo? ¿Qué métodos estás utilizando actualmente para tener más bienestar?
 
-Also discuss how well-being relates to work. What would happen if the people in our organisation felt happy? Would they stay longer? Would we attract more talent? 
+También discutan cómo se relaciona el bienestar con el trabajo. ¿Qué pasaría si las personas de nuestra organización se sintieran más felices, más cómodas, más contentas? ¿Se quedarían más tiempo? ¿Atraeríamos más talento?
 
-Let each participant talk until they're finished. Answer any questions that might come up, and note those you don't have an answer for.
+Decile al grupo que te vas a quedar después para responder preguntas uno a uno 
 
-Thank them for their time and attention.
+Agradeceles por su tiempo y atención.
 
-## Extra material
-- The worlds happiest man according to science, Matthieu Ricard, says that metta meditation has improved his well-being. You could send out his TED Talk (“The habits of happiness”) to the team as inspiration.
-- Good physical health and good relationships seems to be the most important matters in improving well-being. That’s not something this course can help with. Well, *maybe* EQ will help your relationships somewhat …
-- A sense of community and having your daily actions correlated to your values is also super important. A sense of “we” and a sense of purpose. The company that solves this problem won’t have to worry about productivity hacks.
+## Material Extra
+- El hombre más feliz del mundo según la ciencia, Matthieu Ricard, dice que la meditación metta ha mejorado su bienestar. Podés ver la charla TED [Los hábitos de la felicidad](https://www.youtube.com/watch?v=vbLEf4HR74E) cómo inspiración, no como modelo.
+- La salud física y las relaciones saludables parecen ser los aspectos más importantes para mejorar el bienestar en general y a largo plazo. Eso no es algo en lo que este curso pueda ayudar. Bueno, *tal vez* un poco.
+- Un sentido de comunidad y tener sus acciones diarias correlacionadas con tus valores también es muy importante. Un sentido de *nosotros* VS *yo* y un sentido de propósito en la vida. La organización que resuelva este problema no tendrá que preocuparse por tener una productividad baja.
 
--
+***
 
-[Session #6 - Company culture](session-06-culture.md) | [Team Awareness Training](../../..) | [Session #8 - Further training](session-08-further-training.md)
+[Reunion #6 - Cultura](/templates/reunion-06-cultura.md#agenda) | [Framework Meditaon](/#framework) | [#8 Reunion - Entrenamiento](/templates/reunion-08-entrenamiento.md#agenda)

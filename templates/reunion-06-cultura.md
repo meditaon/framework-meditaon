@@ -5,7 +5,7 @@ En esta reunión, cambiaremos el enfoque del entrenamiento en uno a mismo a un e
 ## Agenda
 1. [Compartir](#_1-compartir): compartir sobre la semana anterior y el estado de Flow. (10 min)
 2. [Clase](#_2-clase-cultura): cultura de la organización. (20 min)
-3. [Método](#_3-metodo-para-mejorar-la-productividad-sustentable): ideas para mejorarla productividad sustentable. (20 min)
+3. [Método](#_3-método-para-mejorar-la-productividad-sustentable): ideas para mejorarla productividad sustentable. (20 min)
 4. [Reflexión](#_4-reflexión): reflexión y tarea para la próxima reunión. (10 minutos)
 
 Cómo facilitadora, anotá los items clave, preguntas y temas relevantes de la reunión. Asegúrate de hacer un seguimiento de los mismos en la minuta que se envia por mail o la herramienta de comunicación que hayan elegido.
@@ -69,4 +69,4 @@ Agradeceles por su tiempo y atención.
 
 ***
 
-[Session #5 - Flow](session-05-flow.md#agenda) | [Team Awareness Training](../../..) | [Session #7 - Well-being](session-07-well-being.md#agenda)
+[Reunion #5 - Flow](/templates/reunion-05-flow.md#agenda) | [Framework Meditaon](/#framework) | [#7 Reunion - Salud](/templates/reunion-07-salud.md#agenda)
