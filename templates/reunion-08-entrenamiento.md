@@ -1,56 +1,50 @@
-# Session #8 - Further training
+# #8 Reunión 8 - Entrenamiento
 
-In this final session, the group will discuss how to carry on their own training after the course ends and evaluate the course.
+En esta última reunión, el grupo discutirá cómo llevar a cabo su propia formación (auto aprendizaje) una vez finalizado el curso y haremos una evaluación del curso.
 
-## Setup
-1. [Sharing](#1-sharing): reflections on well-being. (10 min)
-2. [Teaching](#2-what-happens-now): training after the course ends. (20 min)
-3. [Method](#3-a-final-meditation-session): final meditation session. (20 min)
-4. [Reflection](#4-reflection). (10 min)
+## Agenda
+1. [Compartir](#_1-compartir): compartir sobre la semana anterior y la práctica de bienestar. (10 min)
+2. [Clase](#_2-clase-que-hacemos-ahora): entrenamiento después de finalizar el curso. (20 min)
+3. [Método](#_3-método-meditación): sesión de meditación. (20 min)
+4. [Reflexión](#_4-reflexión): cierre. (10 minutos)
 
-You know the drill with taking notes by now :D
+## 1. Compartir
+Tomen turnos en ronda y reflexionen sobre la semana anterior (entre reunión y reunión). ¿Cómo experimentaste escribiendo sobre lo que estás agradecida? ¿Intentaste disfrutar algún momento? ¿Podrías usarlo en tu práctica de meditación?
 
-## 1. Sharing
-Take turns clock-wise around the table and reflect on the previous week. How did you experience writing gratitude lists? Did you try savoring any moments? Could you use it in your meditation practice?
+## 2. Clase: Que hacemos ahora
+Después de esta reunión, el curso termina.
 
-Gratitude feels weird for many in the beginning. But just like the other exercises it’s results come from doing it over a long period of time. And most importantly: actually doing it. It’s not enought to think "uh, that's nice" for two seconds every now and then.
+Fueron 8 semanas, dónde entrenamos la mayor parte de *lo científico referido a meditación*. Después de ocho semanas, deberías poder sentirte diferente de muchas maneras. ¿Valió la pena? Quizás haya alguna otra actividad que dé el mismo resultado a meditar pero bueno, es cuestión de probar.
 
-## 2. What happens now?
-After this session, the course is over.
+Después del entrenamiento, algunos participantes quieren explorar más las partes filosóficas de la meditación. ¿Cómo se relaciona con la idea del YO, cuando es obvio que no soy yo quien está a cargo de mis pensamientos/mente?
 
-It’s been eight weeks which mirrors most of the science done on meditation. After eight weeks, you should be able to feel different in a lot of ways. But was it worth it? Perhaps there is some other activity that would give the same result.
+Otros lo ven desde una perspectiva de autoayuda. Y otros como herramienta de productividad sustentable. 
+Cómo facilitadora, ayudá a cada persona a encontrar su propia estrategia para seguir adelante con la meditación.  Recomendar libros, cursos y técnicas que se adapten a las necesidades individuales.
 
-Some participants want to explore the philosophical parts of meditation more. How does it relate to the idea of Self, when it’s obvious that I am not the one in charge of my thoughts. Or what’s this idea behind impermanence, where we notice that everything seems to come and go. Or perhaps even non-duality: that white necessitates black.
+Recuerdá anclar las enseñanzas al grupo y a la organización. ¿Cómo podemos transmitir una sensación de calma y concentración a las personas que nos rodean?
 
-Others look at it from a self-help perspective. And others as a productivity tool. Help each person find their own strategy for moving forward with meditation. Recommend books, courses and techniques that suite their needs.
+Es un buen método para comenzar cada reunión de meditación con esa pregunta. Aumenta nuestra motivación para continuar practicando.
 
-And remember to anchor your teachings to the group and the organisation. How can we spread a sense of calm and focus to the people around us?
+## 3. Médoto: meditación
+Hacer una meditación grupal.
 
-It’s a good method to start every meditation session out with that question. It increases our motivation.
+Contestar cualquier pregunta que surja en el grupo.
 
-## 3. A final meditation session
-Meditate together.
+## 4. Reflexión
+Contale al grupo que se enviará un formulario de comentarios anónimo.
 
-Answer any of the groups final questions.
+Tomen turnos para reflexionar sobre el curso. ¿Fue una buena inversión de tiempo? ¿Qué aprendimos? ¿Afectó el trabajo o incluso nuestra vida personal de alguna manera? ¿Hay algo en el curso que el profesor deba actualizar antes de volver a enseñarlo?
 
-## 4. Reflection
-Let the group know that there will be an anonymous feedback form send out.
+Dejá que cada participante hable hasta que termine. Respondé cualquier pregunta que pueda surgir y anotá aquellas para las que no tenés una respuesta.
 
-Take turns counter-clockwise to reflect on the course. Was it a good investment of time? What did we learn? Has it affected work or even our private lives in any ways? Is there anything in the course that the teacher should update before teaching it again?
+Agradecé por su tiempo, atención y dedicación.
 
-Let each participant talk until they're finished. Answer any questions that might come up, and note those you don't have an answer for.
+## Material Extra
+- Contale al grupo lo que aprendiste como facilitador. Volvé a contar cualquier momento del curso que te haya resultado especialmente interesante o relevante. Tratá de ser lo más específico posible. Ahora es un buen momento para comentar si hay algo en particular por lo que esté agradecido.
+- Recordá que la meditación no es especial, ni mágica. Es fácil **predicar** una vez que hayas encontrado algo que funcione para vos. Pero la meditación no es la respuesta A TODO ni para TODOS. Para otra persona, el ciclismo o nadar o bailar pueden ser igual de efectivos.
+- Intentá resumir el próposito del curso. Priorizá el entrenamiento mental y los métodos para aumentar la calma y la concentración.
 
-The group should know the drill about your availability by now :)
 
-Thank them for their time and attention.
+***
 
-## Extra material
-- Tell the group what you’ve learned as a teacher. Retell any moments during the course that’s been especially interesting to you. Try to be as specific as possible. Now is a good time to mention if there is anything in particular you are grateful for.
-- Remember that meditation is not special. It’s easy to become preachy once you’ve find something that works for you. But meditation is not the answer. For someone else, mountain biking is just as effective.
-- Try to summarize the message of the course. Prioritize mental training and methods to increase calm and focus - because it will make the rest of your work so much better. 
-
-When creativity and clarity is close at hand, we don’t need productivity hacks.
-
--
-
-[Session #7 - Well-being](session-07-well-being.md) | [Team Awareness Training](../../..)
+[Reunion #7 - Salud](/templates/reunion-06-salud.md#agenda) | [Framework Meditaon](/#framework) |
